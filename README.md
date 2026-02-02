@@ -18,10 +18,6 @@ https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/mix/sub.txt
 
 
 
----
-
-
-
 ### **vless**:
 
 
@@ -114,47 +110,25 @@ https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/hy2.txt
 
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub1.txt
 
-
-
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub2.txt
-
-
 
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub3.txt
 
-
-
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub4.txt
-
-
 
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub5.txt
 
-
-
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub6.txt
-
-
 
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub7.txt
 
-
-
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub8.txt
-
-
 
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub9.txt
 
-
-
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub10.txt
 
-
-
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub11.txt
-
-
 
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub12.txt
 
