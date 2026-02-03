@@ -1,3 +1,23 @@
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=mitivpn-s1.global.ssl.fastly.net&path=/--Telegram---MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&sni=mitivpn-s1.global.ssl.fastly.net&fp=chrome#config_v2rayy
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=mitivpn-s1.global.ssl.fastly.net&path=/--Telegram---MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&sni=mitivpn-s1.global.ssl.fastly.net&fp=chrome#config_v2rayy
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?path=/---%40MiTiVPN/---%40MiTiVPN/---MiTiVPN/---%40MiTiVPN&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=hitgram.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=hitgram.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40bored_vpn%20%231
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?path=/---%40MiTiVPN/---%40MiTiVPN/---MiTiVPN/---%40MiTiVPN&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=hitgram.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=hitgram.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40bored_vpn%20%231
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?path=/---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitgram.ir#@bored_vpn
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?path=/---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitgram.ir#@bored_vpn
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?encryption=none&security=none&type=ws&host=mitivpn3.global.ssl.fastly.net&path=/--Telegram---MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN#🔥
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?encryption=none&security=none&type=ws&host=mitivpn3.global.ssl.fastly.net&path=/--Telegram---MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN#🔥
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?path=%2F--Telegram---M%69T%69V%50N%2F---%40M%69T%69V%50N%2F---%40M%69T%69V%50N%2F---%40M%69T%69V%50N&security=&encryption=none=&host=mitivpn3.global.ssl.fastly.net&type=ws#%3E%3E%40mehrosaboran%3A%3AUS
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?path=%2F--Telegram---M%69T%69V%50N%2F---%40M%69T%69V%50N%2F---%40M%69T%69V%50N%2F---%40M%69T%69V%50N&security=&encryption=none=&host=mitivpn3.global.ssl.fastly.net&type=ws#%3E%3E%40mehrosaboran%3A%3AUS
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=&encryption=none&host=mitivpn3.global.ssl.fastly.net&type=ws#
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=&encryption=none&host=mitivpn3.global.ssl.fastly.net&type=ws#%40ConfigV2RayNG
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=&encryption=none&host=mitivpn3.global.ssl.fastly.net&type=ws#%40ConfigV2RayNG
+
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=&encryption=none&host=mitivpn3.global.ssl.fastly.net&type=ws#%F0%9F%92%AB%20%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=&encryption=none&host=mitivpn3.global.ssl.fastly.net&type=ws#%F0%9F%92%AB%20%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 
@@ -85,10 +105,10 @@ vless://dd22e2c8-5224-4911-81d7-ec1d66be2719@V2ngFast.huqpmfood.ir:1146?mode=aut
 
 vless://dd326466-0d62-40b6-9958-72ca35cf0a99@canada1.pmcooo.com:461?mode=auto&path=/&security=none&encryption=none&host=uptvs.com&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20247144
 
-vless://dd326466-0d62-40b6-9958-72ca35cf0a99@canada1.pmcooo.com:461?mode=auto&path=/&security=none&encryption=none&host=uptvs.com&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20388627
-vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.25.129:4249?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a20d3ed244c76426#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20395573
+vless://dd326466-0d62-40b6-9958-72ca35cf0a99@canada1.pmcooo.com:461?mode=auto&path=/&security=none&encryption=none&host=uptvs.com&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20276015
 vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.25.129:4249?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a20d3ed244c76426#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20447668
 
+vless://dd618f98-8af3-413b-b4d7-f77afa40365d@217.16.25.129:4249?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a20d3ed244c76426#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20949596
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=capitalnet.jokerv2ray.store&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=joinchannel.jokerv2ray.store#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40jokerv2ray%20%231
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=capitalnet.jokerv2ray.store&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=joinchannel.jokerv2ray.store#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40jokerv2ray%20%231
 
@@ -103,10 +123,10 @@ vless://ddb4b81b-3c9d-43b9-b854-372cfb5f2bd3@freeiran.lookanet.app:443?mode=auto
 
 vless://de7b6583-99d7-4376-a947-7040ccaf33a9@104.21.89.247:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=%2FeyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20262011
 
-vless://de7b6583-99d7-4376-a947-7040ccaf33a9@172.64.80.1:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=%2FeyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20264160
-vless://de7b6583-99d7-4376-a947-7040ccaf33a9@172.64.80.1:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=/eyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20891328
+vless://de7b6583-99d7-4376-a947-7040ccaf33a9@172.67.166.46:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=%2FeyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20773426
 vless://de7b6583-99d7-4376-a947-7040ccaf33a9@172.67.166.46:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=/eyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20530532
 
+vless://de7b6583-99d7-4376-a947-7040ccaf33a9@172.67.166.46:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=/eyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20721046
 vless://de7b6583-99d7-4376-a947-7040ccaf33a9@ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=%2FeyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%3E%3E%40DailyV2RY%3A%3AUS
 vless://de7b6583-99d7-4376-a947-7040ccaf33a9@ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=%2FeyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%3E%3E%40DailyV2RY%3A%3AUS
 
@@ -145,7 +165,7 @@ vless://df01ca4d-0e79-4b36-80c6-8ba6054d9c73@s2.parham200.ir:32212?security=none
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@104.238.190.155:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20109247
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@104.238.190.155:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20306571
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@104.238.190.155:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20447536
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#[92873]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France
@@ -164,7 +184,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&securi
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20109254
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20459949
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20631002
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 
@@ -240,7 +260,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[92862]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967500853380191.mashhad-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#[92892]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967640653061122.qazvin-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#[92887]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 
@@ -331,7 +352,7 @@ vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:531
 vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:53196?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram
 vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:53196?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram
 
-vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:53196?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp#
+vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:53196?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#ARGO_VPNN_57
 vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:53196?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp#%40YamYamProxy%20%F0%9F%87%AB%F0%9F%87%B7
 vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:53196?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#@icv2ray
 vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@download.musicdownlodirani7.com:53196?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#@icv2ray
@@ -342,6 +363,7 @@ vless://e0124a45-0438-4b15-be70-8c91e714e568@5.135.29.36:443?encryption=none&sec
 
 vless://e0124a45-0438-4b15-be70-8c91e714e568@5.135.29.36:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#[
 
+vless://e0124a45-0438-4b15-be70-8c91e714e568@5.135.29.36:443?security=none&encryption=none&headerType=none&type=tcp#
 vless://e0124a45-0438-4b15-be70-8c91e714e568@5.135.29.36:443?security=none&encryption=none&headerType=none&type=tcp#
 
 vless://e0124a45-0438-4b15-be70-8c91e714e568@5.135.29.36:443?security=none&encryption=none&headerType=none&type=tcp#@V2ray_confing33
@@ -385,12 +407,12 @@ vless://e076e2c6-bb55-4830-a514-d89f60f550d8@voip.khakshouri.ir:56734?security=r
 vless://e076e2c6-bb55-4830-a514-d89f60f550d8@voip.khakshouri.ir:56734?security=reality&encryption=none&pbk=RO_4G0ajxySXJ2CcWXVZ6vFhYWw7Jt3uF829syN6_X4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.pinterest.com&sid=2e#VayNora
 vless://e076e2c6-bb55-4830-a514-d89f60f550d8@voip.khakshouri.ir:56734?security=reality&encryption=none&pbk=RO_4G0ajxySXJ2CcWXVZ6vFhYWw7Jt3uF829syN6_X4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.pinterest.com&sid=2e#VayNora
 
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@195.209.66.253:80?encryption=none&path=/getWorkerUpdates&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20721763
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@195.209.67.124:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20554444
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@195.209.67.124:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20777070
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@195.209.81.144:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20875189
 
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@195.209.81.144:80?encryption=none&path=/getWorkerUpdates&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20164751
 
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@195.209.81.144:80?encryption=none&path=/getWorkerUpdates&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20500077
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 
@@ -400,6 +422,15 @@ vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?enc
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&path=/getWorkerUpdates&security=none&type=ws#🇳🇱[openproxylist.com]
 vless://e0db3041-1928-4072-ade7-fb2c9c783ba9@81.12.33.6:711?security=none&type=tcp&headerType=http&path=%2F&host=igap.net#
 
+vless://e0e4848c-32fc-476e-9e02-f84d96c3d871@cl1.buypingcdn.ir:443?mode=auto&path=%2Fchat&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=srv22.buypingcdn.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=srv22.buypingcdn.ir#[92889]
+vless://e0e4848c-32fc-476e-9e02-f84d96c3d871@cl3.buypingcdn.ir:443?mode=auto&path=%2Fchat&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=srv22.buypingcdn.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=srv22.buypingcdn.ir#
+vless://e0e4848c-32fc-476e-9e02-f84d96c3d871@cl3.buypingcdn.ir:443?mode=auto&path=%2Fchat&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=srv22.buypingcdn.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=srv22.buypingcdn.ir#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+vless://e0e4848c-32fc-476e-9e02-f84d96c3d871@cl3.buypingcdn.ir:443?mode=auto&path=%2Fchat&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=srv22.buypingcdn.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=srv22.buypingcdn.ir#[92888]
+vless://e0e4848c-32fc-476e-9e02-f84d96c3d871@de1.buyping.org:443?path=%2F&security=&encryption=none&type=ws#[92890]
+vless://e0e4848c-32fc-476e-9e02-f84d96c3d871@de1.buyping.org:443?path=%2F&security=none&encryption=none&type=ws#
+vless://e0e4848c-32fc-476e-9e02-f84d96c3d871@de1.buyping.org:443?path=%2F&security=none&encryption=none&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+vless://e0e4848c-32fc-476e-9e02-f84d96c3d871@de1.buyping.org:443?path=%2F&security=none&encryption=none&type=ws#Telegram:@config_proxy
+vless://e0e4848c-32fc-476e-9e02-f84d96c3d871@de1.buyping.org:443?path=%2F&security=none&encryption=none&type=ws#[92885]
 vless://e0fc601e-e0c6-4c8c-92d6-6f5d1cde5a09@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
 vless://e0fc601e-e0c6-4c8c-92d6-6f5d1cde5a09@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
 
@@ -417,19 +448,19 @@ vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?encryption=none
 
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20208127
 
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20979632
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20238135
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20350362
 
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20979242
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20610909
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%F0%9F%94%A5Join%2BTelegram%3A%40
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%F0%9F%94%A5Join%2BTelegram%3A%40
 
-vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@176.125.241.123:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20379393
+vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@176.125.240.248:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20421872
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@176.125.241.123:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20943267
 
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@185.155.96.153:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#%F0%9F%87%AA%F0%9F%87%AA%20ShatakVPN%20893540
 
-vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@185.155.96.154:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#%F0%9F%87%AA%F0%9F%87%AA%20ShatakVPN%20979629
+vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@185.155.96.153:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#%F0%9F%87%AA%F0%9F%87%AA%20ShatakVPN%20938737
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@est01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%A5%9017@oneclickvpnkeys
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@est01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%A5%9017@oneclickvpnkeys
 
@@ -495,7 +526,7 @@ vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?path=%2Flogin%2F
 
 vless://e127f737-bd10-475a-9461-e68904180eab@130.193.59.133:51101?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=4ffc99daad0f261f#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20344769
 
-vless://e127f737-bd10-475a-9461-e68904180eab@130.193.59.133:51101?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=4ffc99daad0f261f#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20751138
+vless://e127f737-bd10-475a-9461-e68904180eab@130.193.59.133:51101?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=4ffc99daad0f261f#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20564406
 vless://e1557ceb-07ed-415c-a0d3-3b6e9d9b06ad@wt1.xservers.ir:443?encryption=none&type=ws&host=aBrRu1.ReDisMyfAvoRitE.iR&path=/imoverthecloudws?ed%3D2560&security=tls&sni=aBrRu1.ReDisMyfAvoRitE.iR#Telegram%40Awlix_ir
 vless://e1557ceb-07ed-415c-a0d3-3b6e9d9b06ad@wt1.xservers.ir:443?encryption=none&type=ws&host=aBrRu1.ReDisMyfAvoRitE.iR&path=/imoverthecloudws?ed%3D2560&security=tls&sni=aBrRu1.ReDisMyfAvoRitE.iR#Telegram%40Awlix_ir
 
@@ -517,7 +548,7 @@ vless://e1d34867-f469-4389-a6b7-a05e19afee42@hesam.xv98.ir:608?path=/ws?ed=2048&
 
 vless://e211a4f6-5afb-467f-ab8f-2f08e06c1b66@209.38.223.106:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20763530
 
-vless://e211a4f6-5afb-467f-ab8f-2f08e06c1b66@209.38.223.106:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20806982
+vless://e211a4f6-5afb-467f-ab8f-2f08e06c1b66@209.38.223.106:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20893367
 vless://e219b900-14e4-485b-a391-21de504a1ca1@v2.karakoit.ir:1573?encryption=none&type=ws&path=/&security=none#Telegram%20%7C%20@InvoProxy
 vless://e219b900-14e4-485b-a391-21de504a1ca1@v2.karakoit.ir:1573?encryption=none&type=ws&path=/&security=none#Telegram%20%7C%20@InvoProxy
 
@@ -545,40 +576,39 @@ vless://e2a4327f-a741-43db-b346-28e46d3da9bb@osmo.usertak.com:2053?type=tcp&path
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%3E%3E%40oneclickvpnkeys%3A%3AXX
 
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20132585
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20352554
 
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20364880
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=/39427/Nextlife&security=none&encryption=none&host=telewebion.com&type=ws#🇩🇪All☆AZARBAYJAB1
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=/39427/Nextlife&security=none&encryption=none&host=telewebion.com&type=ws#🇩🇪All☆AZARBAYJAB1
 
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?type=ws&encryption=none&host=telewebion.com&path=/39427/Nextlife#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20758089
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?type=ws&encryption=none&host=telewebion.com&path=/39427/Nextlife#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20601850
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?type=ws&encryption=none&host=telewebion.com&path=/39427/Nextlife#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20825323
 
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#%3E%3E%40v2nodes%3A%3ANL
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#%3E%3E%40v2nodes%3A%3ANL
 
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20247257
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20411470
 
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20462024
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20443841
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20578818
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20966317
 
 vless://e31b8eee-4b49-4f27-b296-7ea8ac32fce6@172.64.152.23:2053?type=ws&security=tls&host=api18.reata.ir&path=%3Fed%3D2560&sni=api18.reata.ir&fp=firefox&alpn=h2&encryption=none#IP_CF
 vless://e31b8eee-4b49-4f27-b296-7ea8ac32fce6@172.64.152.23:2053?type=ws&security=tls&host=api18.reata.ir&path=%3Fed%3D2560&sni=api18.reata.ir&fp=firefox&alpn=h2&encryption=none#IP_CF
 
-vless://e329843c-02c3-4401-8289-cf196d5a6921@89.208.87.173:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20121487
 vless://e329843c-02c3-4401-8289-cf196d5a6921@89.208.87.173:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20133986
 
+vless://e329843c-02c3-4401-8289-cf196d5a6921@89.208.87.173:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20665431
 vless://e329843c-02c3-4401-8289-cf196d5a6921@89.208.87.173:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20749903
 
-vless://e329843c-02c3-4401-8289-cf196d5a6921@89.208.87.173:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20763044
+vless://e329843c-02c3-4401-8289-cf196d5a6921@89.208.87.173:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20813445
 vless://e392ddec-1fe5-437a-b686-c2e697fa62a9@cdn-one.tyts.ir:53627?encryption=none&type=tcp&headerType=http&host=VayNora@VayNora@VayNora@VayNora&path=/&security=none#VayNora
 vless://e392ddec-1fe5-437a-b686-c2e697fa62a9@cdn-one.tyts.ir:53627?encryption=none&type=tcp&headerType=http&host=VayNora@VayNora@VayNora@VayNora&path=/&security=none#VayNora
 
 vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=firefox&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=firefox&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 
-vless://e40cfaf8-72d6-43f0-9481-432398e66ce3@ir2.webira.net:19204?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2#%7C%20%40v2rayeagle%20%7C%20%F0%9F%87%A8%F0%9F%87%A6
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2#%7C%20%40v2rayeagle%20%7C%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -586,9 +616,9 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?mode=gun&security=t
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#VayNora
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#VayNora
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.238.33:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20248413
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.18.32.47:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v4.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20411018
 
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.19.142.226:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20287864
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.19.142.226:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20366435
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh27v1.carwashipdir.shop#Moldova%20WorkTitans
@@ -597,7 +627,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?allowInsecure=0&encryption=none&fp=chrome&insecure=0&mode=gun&security=tls&sni=pqh30v1.carwashipdir.shop&type=grpc#
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&fp=chrome&mode=gun&security=tls&sni=pqh30v1.carwashipdir.shop&type=grpc#
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=pqh30v1.carwashipdir.shop#
-vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=pqh30v1.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20245856
+vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=pqh30v1.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20198987
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=pqh30v1.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20334181
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=pqh30v1.carwashipdir.shop#YMA%205%20%40Outline_Vpn
@@ -606,7 +636,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#%40V2RAY_VMESS_free%20mci
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20753838
+vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20142410
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20918363
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#@V2RAY_VMESS_free
@@ -615,7 +645,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#🇧🇪@SimChin_iR
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#🇧🇪@SimChin_iR
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.64.155.209:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v4.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20364683
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.64.155.209:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v4.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20325109
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2#%7C%20%40v2rayeagle%20%7C%20%F0%9F%87%BA%F0%9F%87%B8
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2#%7C%20%40v2rayeagle%20%7C%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -633,7 +663,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#YMA%203%20%40Outline_Vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?type=grpc&encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20206654
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?type=grpc&encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20794533
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?type=grpc&encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20353694
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#%40EuServer
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#%40EuServer
 
@@ -646,7 +676,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%20ProxyCloud%20USA%20%F0%9F%91%91
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%20ProxyCloud%20USA%20%F0%9F%91%91
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20216228
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20172619
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20231772
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20by%20%40oneclickvpnkeys
@@ -677,37 +707,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v5.economy36top.shop#@meli_proxyy
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?amp%3Bfp=chrome&amp%3Btype=grpc&amp%3Bencryption=none#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?amp%3Bfp=chrome&amp%3Btype=grpc&amp%3Bencryption=none#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v2.carwashipdir.shop&alpn=h2#%7C%20%40v2rayeagle%20%7C%20%F0%9F%A6%85%20
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v2.carwashipdir.shop&alpn=h2#%7C%20%40v2rayeagle%20%7C%20%F0%9F%A6%85%20
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v3.carwashipdir.shop#BESTIIVPNBOT
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%40meliproxyy
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%40meliproxyy
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#@Magsin_Vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#@Magsin_Vpn
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=pqh30v5.carwashipdir.shop#NetAccount
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v3.carwashipdir.shop#%40Al
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v3.carwashipdir.shop#%40Al
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v3.carwashipdir.shop#@v2rays_ha
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v3.carwashipdir.shop#@v2rays_ha
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v3.carwashipdir.shop#⚡Telegram
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v3.carwashipdir.shop#⚡Telegram
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#%40EuServer
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#%40EuServer
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#%E3%80%8E%20%20%F0%9F%8C%9F%40airdrop2033%20%E3%80%8F%D8%B9%D8%B6%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%D8%A8%D8%B4%DB%8C%D9%86
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#VayNora
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#VayNora
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.carwashipdir.shop#XX
