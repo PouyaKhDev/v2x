@@ -1,5 +1,3 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.55:8000#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.53:5500#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUA2OS41MC45Mi41NTo4MDAw#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -266,6 +264,8 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443/?type=ws&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-0.undef.network&allowInsecure=1#%F0%9F%9B%A983%40oneclickvpnkeys
 
+trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=/f2fc2a1f&type=ws#[92501]
+
 trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?allowInsecure=1&path=%2Ff2fc2a1f&sni=hl-freedom-1.undef.network&type=ws#%F0%9F%A5%9048@oneclickvpnkeys
 
 trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?allowInsecure=1&host=hl-freedom-1.undef.network&path=%2Ff2fc2a1f&type=ws#%F0%9F%A5%9059@oneclickvpnkeys
@@ -337,3 +337,9 @@ trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?allowInsecure=1&sni=
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ya.ru#%F0%9F%9B%A987%40ConfigV2RayNG
 
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?allowInsecure=1&sni=web.max.ru#%F0%9F%A5%9057@oneclickvpnkeys
+
+trojan://d4f23727-68eb-43bd-b9e4-f4138d028856@630hk99.ok365.cyou:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
+
+trojan://d4f23727-68eb-43bd-b9e4-f4138d028856@630hk99.ok365.cyou:443?allowInsecure=1#[
+
+trojan://d4f23727-68eb-43bd-b9e4-f4138d028856@630hk99.ok365.cyou:443?allowInsecure=1#[92511]
