@@ -1,3 +1,13 @@
+vless://2ddeb056-17d4-421e-a318-39428733d4a2@172.64.149.99:8443?encryption=none&security=tls&sni=8p3cfl0ripm.zjde5.de5.net&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=8p3cfl0ripm.zjde5.de5.net&path=%2F%3Fed%3D2560#telegram%20%F0%9F%9A%80%20dailyv2ry
+
+vless://2ddeb056-17d4-421e-a318-39428733d4a2@172.64.149.99:8443?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=8p3cfl0ripm.zjde5.de5.net#%40ConfigV2RayNG%20%D9%85%D9%86%D8%A8%D8%B9%20%D8%A7%D8%B5%D9%84%DB%8C%20%DA%A9%D8%A7%D9%86
+
+vless://2ddeb056-17d4-421e-a318-39428733d4a2@172.64.149.99:8443?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=8p3cfl0ripm.zjde5.de5.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%40FreakConfig
+
+vless://2ddeb056-17d4-421e-a318-39428733d4a2@172.64.149.99:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=8p3cfl0ripm.zjde5.de5.net#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+
+vless://2ddeb056-17d4-421e-a318-39428733d4a2@ipbaz.ping-box.com:8443?path=%2FTelegram%40V2rayAlpha%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&sni=8p3cfl0ripm.zjde5.de5.net#t.me%2FVMESSIRAN
+
 vless://2ddeb056-17d4-421e-a318-39428733d4a2@ipbaz.ping-box.com:8443?path=%2FTelegram%40V2rayAlpha%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=8p3cfl0ripm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=8p3cfl0ripm.zjde5.de5.net#%F0%9F%87%A7%F0%9F%87%AC%20%40FreakConfig
 
 vless://2e11e5a2-38eb-4842-9ad7-ed57df1eb676@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:2095?path=%2F%3Fed%3D2087&security=none&encryption=none&host=beh1.salonemojallal.ir.&type=httpupgrade#%F0%9F%92%AB%20%40ConfigV2RayNG%20%28Vless%29
@@ -86,7 +96,7 @@ vless://34dae96c-1a41-434f-94b6-5507c3a6d318@46.38.146.167:9092?security=none&en
 
 vless://34dae96c-1a41-434f-94b6-5507c3a6d318@46.38.150.248:9091?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 
-vless://34dae96c-1a41-434f-94b6-5507c3a6d318@dlc-nl2.persianpinggame.ir:443?security=reality&encryption=none&pbk=FRhlZqNN8KVTgQ-yS-7WTqNjSi9Mhy-ItbmSqcnn5EM&headerType=none&fp=random&type=tcp&sni=yahoo.com&sid=274e8f5c1c9feb3f#[92098]
+vless://34dae96c-1a41-434f-94b6-5507c3a6d318@dlc-nl1.persianpinggame.ir:443?security=reality&encryption=none&pbk=FRhlZqNN8KVTgQ-yS-7WTqNjSi9Mhy-ItbmSqcnn5EM&headerType=none&fp=random&type=tcp&sni=yahoo.com&sid=274e8f5c1c9feb3f#[92143]
 
 vless://35011ab1-abb4-482c-b6f7-69d205733e88@172.64.145.38:8443?encryption=none&security=tls&sni=hwscwhnx1vif2e4w2llmoakhiqrh1erpu67.zjde5.de5.net&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=hwscwhnx1vif2e4w2llmoakhiqrh1erpu67.zjde5.de5.net&path=%2F%3Fed%3D2560#telegram%20%F0%9F%8C%88%20dailyv2ry
 
@@ -269,13 +279,3 @@ vless://40526a52-2d61-4be6-a9ee-97243d763972@104.21.69.44:2082?security=none&typ
 vless://40a63862-62b9-4ba5-ac37-b45eea53d40a@cp4.azangooo.ir:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=backup.f-sub.cfd&fp=chrome&type=ws&sni=backup.f-sub.cfd#%40Al
 
 vless://40a63862-62b9-4ba5-ac37-b45eea53d40a@cp4.azangooo.ir:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-
-vless://40ecece1-edd9-4543-99c7-529ee594135d@nl20.abvpn.ru:443/?type=tcp&encryption=none&flow=&sni=mirror.yandex.ru&fp=chrome&security=reality&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&sid=f618ecd3#%F0%9F%9B%A934%40oneclickvpnkeys
-
-vless://41127caf-a83c-44ea-b876-9d5392702544@meli46.hydro-soft.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=M4d209.nightwolf.shop#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-
-vless://4154ddec-dc96-43cc-95bb-43dc03bdcd65@108.162.193.91:443?path=%2Fafjbtmws&security=tls&encryption=none&insecure=0&host=639052472056060764.altima-rvltnb.info&fp=chrome&type=ws&allowInsecure=0&sni=639052472056060764.altima-rvltnb.info#%F0%9F%92%8E%20%7C%20%40ConfigV2RayNG%20%C2%B3
-
-vless://4154ddec-dc96-43cc-95bb-43dc03bdcd65@172.64.152.23:443?path=%2Fafjbtmws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=639055368852079670.defender-rvltnc.top&fp=chrome&type=ws&allowInsecure=0&sni=639055368852079670.defender-rvltnc.top#Server%2017%20Group%202
-
-vless://4154ddec-dc96-43cc-95bb-43dc03bdcd65@clyde.ns.cloudflare.com:443?path=%2Fafjbtmws&security=tls&encryption=none&host=639052472056060764.altima-rvltnb.info&type=ws&sni=639052472056060764.altima-rvltnb.info#TE%202%20%40Outline_Vpn
