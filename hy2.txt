@@ -1,3 +1,5 @@
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%7C%20%40v2rayeagle%20%7C%20%F0%9F%A6%85%20
+
 hysteria2://7c014d1d-262d-4ce0-97d0-2d622b9910c2@jp.xiongchumo.shop:21001-21999/?insecure=1#%F0%9F%9B%A976@oneclickvpnkeys
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40V2rayNG3
