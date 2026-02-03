@@ -1,5 +1,3 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.230:5500#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.122:5500#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.176:5500#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
@@ -49,8 +47,6 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.218:6697#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.53:6697#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.20:6679#@Hope_Net
-
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.20:6679#[92209]
 
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDIzLjE1Ny40MC4xMTM6NjY3OQ==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 
@@ -246,8 +242,6 @@ ss://bnVsbDpudWxs@104.18.4.130:2087#ConfigV2RayNG
 
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.51:8080#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 
-trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#[92231]
-
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 
 trojan://3648425794742788096@artistic-cat.sheepdog670.boats:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3_IN_%E5%8D%B0%E5%BA%A6
@@ -262,11 +256,17 @@ trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&header
 
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 
+trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@5gzdx.233235.xyz:706?allowInsecure=0#@Hope_Net-join-us-on-Telegram
+
+trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@5gzdx.233235.xyz:706?allowInsecure=0#[92270]
+
 trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#%E6%9C%AA%E7%9F%A5
 
 trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%E6%9C%AA%E7%9F%A5
 
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+
+trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443/?type=ws&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-0.undef.network&allowInsecure=1#%F0%9F%9B%A983%40oneclickvpnkeys
 
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&type=ws#%F0%9F%9B%A983@oneclickvpnkeys
 
@@ -304,7 +304,7 @@ trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=t
 
 trojan://a32bc6bc-8b4e-38b0-bef9-3172cf52ca3b@s102.s2022.xyz:33767?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 
-trojan://a32bc6bc-8b4e-38b0-bef9-3172cf52ca3b@s102.s2022.xyz:33767?allowInsecure=1#[92210]
+trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1#%F0%9F%9B%A986%40oneclickvpnkeys
 
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&sni=io.ozone.ru#%F0%9F%9B%A986@oneclickvpnkeys
 
@@ -330,8 +330,12 @@ trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?allowInsecure=1&sni
 
 trojan://cKEKcaigdlmY@43.207.73.53:15105?allowInsecure=0&sni=appsvs.shop#@Hope_Net-join-us-on-Telegram
 
-trojan://cKEKcaigdlmY@43.207.73.53:15105?allowInsecure=0&sni=appsvs.shop#[92214]
-
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?allowInsecure=1&sni=ya.ru#%F0%9F%9B%A987@oneclickvpnkeys
 
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ya.ru#%F0%9F%9B%A987%40ConfigV2RayNG
+
+trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2rayNG3
+
+trojan://humanity@104.18.32.47:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%F0%9F%9B%A984%40oneclickvpnkeys
+
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%9B%A984@oneclickvpnkeys
