@@ -1,3 +1,5 @@
+vless://82fdc77c-5def-4930-89a6-afb5cc609d4b@162.159.129.233:8880?security=none&type=ws&host=github-_-_-_-_-_-vpn_proxy66_marg_bar_khamenei.proxy66.shop.&path=%2FVPN_PROXY66.VPN_PROXY66#t.me/entryNET/config=1856050805925368
+
 vless://83adcc98-ac23-4e51-9ae0-788a73fd9939@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net#%F0%9F%9A%80%20%7C%20%40ConfigV2RayNG%2018
 
 vless://83adcc98-ac23-4e51-9ae0-788a73fd9939@104.17.163.123:8443?path=%2FTelegram%40V2rayAlpha%2F%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net&type=ws&allowInsecure=0&sni=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
@@ -97,8 +99,6 @@ vless://881268a6-b20d-46de-bb8a-f6b00deb1cc7@146.185.196.25:59984?security=reali
 vless://883db641-a174-4f81-9e73-f9ab6f321dac@SpEeDtEsT.NeT:80?mode=auto&path=%2FHajAmirVip%3F%3D2048&security=none&encryption=none&host=fasthetz.global.ssl.fastly.net&type=xhttp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 
 vless://88bf75be-28da-4bc6-b10b-b059cc5590c3@172.64.152.23:443?path=%2Ftsxcluws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=639055368850987483.renegade-rvltnc.top&fp=chrome&type=ws&allowInsecure=0&sni=639055368850987483.renegade-rvltnc.top#Server%2018%20Group%202
-
-vless://88d7f18e-a9e9-4c3d-8321-169da3a09d36@85.133.248.174:443?security=none&encryption=none&headerType=none&type=tcp#[
 
 vless://88d7f18e-a9e9-4c3d-8321-169da3a09d36@85.133.248.174:443?security=none&encryption=none&headerType=none&type=tcp#[92080]
 
@@ -250,8 +250,6 @@ vless://99588b18-05d8-430b-bc1a-88f7dd19b9f4@109.107.157.56:38791?security=none&
 
 vless://99d620d4-8cb4-4129-a3e3-183939766124@de4.persianpinggame.ir:9092?security=&encryption=none&host=filmnet.ir&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 
-vless://99d620d4-8cb4-4129-a3e3-183939766124@de4.persianpinggame.ir:9092?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#
-
 vless://99d620d4-8cb4-4129-a3e3-183939766124@de4.persianpinggame.ir:9092?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#%40AliXTso
 
 vless://9a5c366e-5d5d-4fbb-85d5-985344ba5369@stella.ns.cloudflare.com:80?path=%2Fwww.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.google.com-www.google.com-www.google.com-www.google.com-www.speedtest.net--www.speedtest.net--www.speedtest.net--www.speedtest.net--www.speedtest.net%3Fed%3D32517&security=none&encryption=none&host=hsvajja-182662626262627272.poshakhowdy.ir.&type=ws#%F0%9F%96%A4%F0%9D%92%84%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%8D%20%F0%9F%91%89%40ConfigV2RayNG%F0%9F%96%A4
@@ -289,3 +287,5 @@ vless://Telegram-proxy_mtm@185.146.173.68:80?path=/Proxy-MTM?ed=2048&security=no
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#DS%205%20%28%40Outline_Vpn%29%20free
 
 vless://a1a91a85-4997-40ca-a32c-269f39d1381c@104.18.32.47:2053?path=%2F&security=tls&encryption=none&insecure=0&host=s4294287AAMf.gamenexus.ir&type=ws&allowInsecure=0&sni=s4294287AAMf.gamenexus.ir#@V2rayNG3
+
+vless://a235d46e-cda6-4541-9fef-172eecf176dc@104.17.71.56:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=2oolx86bnrw29iywnrn5xql025g89rh2dcgzi7n2qsf9g0sx0mdct4zqrko4.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=2oolx86bnrw29iywnrn5xql025g89rh2dcgzi7n2qsf9g0sx0mdct4zqrko4.zjde5.de5.net#ConfigV2RayNG
