@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206OElXT2g5T0VGTEp1Mkt5SnMyaHRBNGJlWUxJVHlVN3hBaFI3UHhnUVZJYz0@89.44.113.169:35591#%40YamYamProxy%20%F0%9F%90%B3
+
 ss://YWVzLTI1Ni1nY206OElXT2g5T0VGTEp1Mkt5SnMyaHRBNGJlWUxJVHlVN3hBaFI3UHhnUVZJYz0@89.44.113.169:35591#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.165.101:7306#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -287,5 +289,3 @@ trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?allowIn
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro011.instconn.com:40130?security=tls&sni=cntwbta.686911.xyz#
 
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
-
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&type=ws#%F0%9F%9B%A983@oneclickvpnkeys
