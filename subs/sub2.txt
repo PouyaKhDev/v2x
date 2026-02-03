@@ -1,3 +1,11 @@
+ss://YWVzLTI1Ni1nY206ODU2MzQxMWYtZjA0Yy00YTM4LTg3NTMtMTFjMzRlNTk5MzY1@45.89.53.115:8443#%40V2RAY_VMESS_free%20mci
+
+ss://YWVzLTI1Ni1nY206ODU2MzQxMWYtZjA0Yy00YTM4LTg3NTMtMTFjMzRlNTk5MzY1@45.89.53.115:8443#%40YamYamProxy%20%F0%9F%90%B3
+
+ss://YWVzLTI1Ni1nY206OElXT2g5T0VGTEp1Mkt5SnMyaHRBNGJlWUxJVHlVN3hBaFI3UHhnUVZJYz0@89.44.113.169:35591#%40YamYamProxy%20%F0%9F%90%B3
+
+ss://YWVzLTI1Ni1nY206OElXT2g5T0VGTEp1Mkt5SnMyaHRBNGJlWUxJVHlVN3hBaFI3UHhnUVZJYz0@89.44.113.169:35591#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
+
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.165.101:7306#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -271,11 +279,3 @@ trojan://3672449442956713984@present-blowfish.sunbeam921.monster:443?allowInsecu
 trojan://3690911436885991424@careful-platypus.opossum872.cfd:443?allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#United%20State%20Nato
-
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
-
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
-
-trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#%E6%9C%AA%E7%9F%A5
-
-trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%E6%9C%AA%E7%9F%A5
