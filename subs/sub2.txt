@@ -1,3 +1,21 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.165.101:7306#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.122:7306#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.248.192:7307#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#%F0%9F%87%AA%F0%9F%87%AA%20Tallinn
+
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.53:7306#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.53:7307#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDY5LjUwLjkyLjU1OjczMDc=#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.230:5500#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.122:5500#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.176:5500#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
@@ -63,6 +81,10 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.203:8009#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.19:8009#@Hope_Net
+
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.19:8009#[92286]
 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMjMuMTU3LjQwLjExMzo4MDA5#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 
@@ -258,8 +280,6 @@ trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%
 
 trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@5gzdx.233235.xyz:706?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@5gzdx.233235.xyz:706?allowInsecure=0#[92270]
-
 trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#%E6%9C%AA%E7%9F%A5
 
 trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%E6%9C%AA%E7%9F%A5
@@ -267,12 +287,6 @@ trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443/?type=ws&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-0.undef.network&allowInsecure=1#%F0%9F%9B%A983%40oneclickvpnkeys
-
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&type=ws#%F0%9F%9B%A983@oneclickvpnkeys
-
-trojan://869e9086806483ca4744a4cb0f3d6e16@153.121.39.240:5076?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%9B%A982@oneclickvpnkeys
-
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.87.174:3901?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%9B%A990@oneclickvpnkeys
 
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@V2rayNG3
 
@@ -306,8 +320,6 @@ trojan://a32bc6bc-8b4e-38b0-bef9-3172cf52ca3b@s102.s2022.xyz:33767?allowInsecure
 
 trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1#%F0%9F%9B%A986%40oneclickvpnkeys
 
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&sni=io.ozone.ru#%F0%9F%9B%A986@oneclickvpnkeys
-
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 
 trojan://bpb-trojan@94.140.0.1:443?allowInsecure=0&fp=chrome&host=singbox.lu567890.us.kg&insecure=0&path=%2Ftr%3Fed%3D2560&security=tls&sni=singbox.lu567890.us.kg&type=ws#
@@ -315,27 +327,3 @@ trojan://bpb-trojan@94.140.0.1:443?allowInsecure=0&fp=chrome&host=singbox.lu5678
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#%40ConfigV2RayNG%F0%9F%8C%BB7
 
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#t.me%2FVMESSIRAN
-
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#%40V2RAY_VMESS_free%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%40FreakConfig
-
-trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#%F0%9F%92%AB%20%40ConfigV2RayNG%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-
-trojan://bpb-trojan@www.csgo.com:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=1&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=1&sni=singbox.lu567890.us.kg#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
-
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%9B%A981@oneclickvpnkeys
-
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%9B%A988@oneclickvpnkeys
-
-trojan://cKEKcaigdlmY@43.207.73.53:15105?allowInsecure=0&sni=appsvs.shop#@Hope_Net-join-us-on-Telegram
-
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?allowInsecure=1&sni=ya.ru#%F0%9F%9B%A987@oneclickvpnkeys
-
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ya.ru#%F0%9F%9B%A987%40ConfigV2RayNG
-
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2rayNG3
-
-trojan://humanity@104.18.32.47:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%F0%9F%9B%A984%40oneclickvpnkeys
-
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%9B%A984@oneclickvpnkeys
