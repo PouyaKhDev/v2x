@@ -1,3 +1,7 @@
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%40EuServer
+
+trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1#%F0%9F%9B%A986%40oneclickvpnkeys
+
 trojan://a9570330-769d-11ef-90dc-1577c1651679@v1.dabache.top:443?allowInsecure=1&host=sg-trojan.andfree.my.id&path=%2Fwelcome&sni=sg-trojan.andfree.my.id&type=ws#%F0%9F%A5%9054@oneclickvpnkeys
 
 trojan://a9570330-769d-11ef-90dc-1577c1651679@v1.dabache.top:443?path=%2Fwelcome&security=tls&insecure=1&host=sg-trojan.andfree.my.id&type=ws&allowInsecure=1&sni=sg-trojan.andfree.my.id#%F0%9F%A5%9054%40ConfigV2RayNG
@@ -9,6 +13,8 @@ trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=sing
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#%40V2RAY_VMESS_free%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 
 trojan://bpb-trojan@www.csgo.com:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=1&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=1&sni=singbox.lu567890.us.kg#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
+
+trojan://c1d83c0c7d57cead4379ba14a82df69b@178.128.114.70:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#[92680]
 
 trojan://c1d83c0c7d57cead4379ba14a82df69b@178.128.114.70:443?sni=www.nintendogames.net&fp=chrome&path=%2f#
 
@@ -38,13 +44,9 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&ho
 
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%9B%A984%40ConfigV2RayNG
 
-trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#
-
 trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%A5%9056@oneclickvpnkeys
 
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%A5%9056%40ConfigV2RayNG
-
-trojan://humanity@172.64.152.23:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#
 
@@ -74,8 +76,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&h
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ConfigV2RayNG
 
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#NetAccount
-
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40V2RAY_VMESS_free
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40confing_parsa
@@ -88,11 +88,11 @@ trojan://humanity@172.64.152.23:443?type=ws&host=www.calmlunch.com&path=/assignm
 
 trojan://humanity@188.114.98.0:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%7C%20%40v2rayeagle%20%7C%20%F0%9F%87%A8%F0%9F%87%A6
 
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#
+
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%40Al
 
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ConfigV2RayNG
-
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#
 
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%F0%9F%A5%9060@oneclickvpnkeys
 
@@ -121,6 +121,8 @@ trojan://humanity@www.multiplydose.com:443/?type=ws&path=%2Fassignment&security=
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#QT%205%20%40Outline_Vpn
 
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@V2rayNG3
+
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#[92681]
 
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click&fp=chrome&path=%2f#
 
@@ -168,6 +170,8 @@ trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&sni=trojan.burgeri
 
 trojan://telegram-id-directvpn@51.21.95.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 
+trojan://telegram-id-directvpn@51.44.120.70:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+
 trojan://telegram-id-directvpn@51.44.120.70:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 
 trojan://telegram-id-directvpn@51.44.32.14:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#
@@ -176,13 +180,13 @@ trojan://telegram-id-directvpn@51.44.32.14:22223?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-directvpn@51.44.32.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 
+trojan://telegram-id-directvpn@51.44.32.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[
+
 trojan://telegram-id-directvpn@51.45.46.184:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 
 trojan://telegram-id-directvpn@52.19.6.148:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0
 
 trojan://telegram-id-directvpn@52.58.45.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-
-trojan://telegram-id-directvpn@63.177.190.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 
 trojan://telegram-id-directvpn@63.177.190.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 
@@ -205,6 +209,8 @@ trojan://telegram-id-privatevpns@15.236.223.129:22222?security=tls&alpn=http%2F1
 trojan://telegram-id-privatevpns@15.237.154.24:22222?allowInsecure=1&alpn=http%2F1.1&sni=trojan.burgerip.co.uk#%F0%9F%A5%9049@oneclickvpnkeys
 
 trojan://telegram-id-privatevpns@15.237.154.24:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5ConfigV2RayNG
+
+trojan://telegram-id-privatevpns@51.44.120.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 
 trojan://telegram-id-privatevpns@51.44.32.14:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#
 
@@ -256,13 +262,13 @@ vless://01c4caac-6f75-49d2-be5f-8bce33441057@199.232.232.231:80?mode=auto&path=%
 
 vless://01c4caac-6f75-49d2-be5f-8bce33441057@199.232.232.231:80?mode=auto&path=%2F&security=none&encryption=none&host=Mego-mego.global.ssl.fastly.net&type=xhttp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 
+vless://01c4caac-6f75-49d2-be5f-8bce33441057@199.232.232.231:80?mode=auto&path=/&security=none&encryption=none&host=Mego-mego.global.ssl.fastly.net&type=xhttp#[92675]
+
 vless://0225e1ba-569e-4b65-a2f8-92fe863c5a76@ip.hamrahto.com:2095?security=&encryption=none&host=hm11.mutee.com.tr&type=httpupgrade#
 
 vless://0225e1ba-569e-4b65-a2f8-92fe863c5a76@ip.hamrahto.com:2095?security=none&encryption=none&host=hm11.mutee.com.tr&type=httpupgrade#%40YamYamProxy
 
 vless://0225e1ba-569e-4b65-a2f8-92fe863c5a76@ip.hamrahto.com:2095?security=none&encryption=none&host=hm11.mutee.com.tr&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
-
-vless://0225e1ba-569e-4b65-a2f8-92fe863c5a76@ip.hamrahto.com:2095?security=none&encryption=none&host=hm11.mutee.com.tr&type=httpupgrade#[92607]
 
 vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@104.18.26.90:2095?path=%2F%3Fed%3D2095&security=&encryption=none&host=us.badomzamini.uk&type=httpupgrade#ConfigV2RayNG
 
@@ -296,9 +302,9 @@ vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@www.speedtest.net:2095?path=%2F%3Fe
 
 vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@www.speedtest.net:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=ba1.badomzamini.uk&type=httpupgrade#%40V2RAY_VMESS_free
 
-vless://02529660-52bf-4896-951a-1857c88d1dba@129.212.143.246:47542?mode=gun&security=reality&encryption=none&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&fp=chrome&spx=%2F&type=grpc&sni=zula.ir&sid=7a6d1a#@V2rayNG3
+vless://022af852-49c7-4b5e-a13b-6877bcfe30a3@usa26.clearorbitllc.com:443?security=reality&encryption=none&pbk=uG51OJ4QHrSFthqOCL3Ctqxy4plPkeUyRGDmF4V7dFo&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=usa26.clearorbitllc.com&sid=c6de8980#[92666]
 
-vless://02cf2bf3-bebb-4f5d-aa91-3aea9118cc06@sky.online.class.mate.rooming.gamesiland.org:14469?path=%2F&security=none&encryption=none&type=ws#
+vless://02529660-52bf-4896-951a-1857c88d1dba@129.212.143.246:47542?mode=gun&security=reality&encryption=none&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&fp=chrome&spx=%2F&type=grpc&sni=zula.ir&sid=7a6d1a#@V2rayNG3
 
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
 
@@ -323,6 +329,8 @@ vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@ens.zdshop.ir:80?mode=packet-up&pat
 vless://044c0673-6f25-4b48-8ac8-e2c687f726c3@172.64.152.23:443?path=%2Fxkmpbgws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=639055368852074998.defender-rvltnc.top&fp=chrome&type=ws&allowInsecure=0&sni=639055368852074998.defender-rvltnc.top#Server%2012%20Group%202
 
 vless://045ae46c-40c0-4191-b5d0-b2811d55c827@de-01.anotherboring.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mail.yandex.ru&fp=chrome&security=reality&pbk=C1nTKBKNuCc5B1iMqbNBodE9W9lQJovw--jF6yhE8DM&sid=9d21bea37f7da010#%F0%9F%9B%A967%40oneclickvpnkeys
+
+vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=%2F&security=&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#ConfigV2RayNG
 
 vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=%2F&security=none&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#
 
@@ -353,7 +361,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.223.129:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.154.24:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.133.202.5:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@Hope_Net-join-us-on-Telegram
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.44.254:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.249.234:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
