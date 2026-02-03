@@ -314,6 +314,8 @@ trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=
 
 trojan://bpb-trojan@www.csgo.com:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=1&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=1&sni=singbox.lu567890.us.kg#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 
+trojan://c1d83c0c7d57cead4379ba14a82df69b@203.198.84.150:443?allowInsecure=0&sni=www.nintendogames.net#
+
 trojan://cKEKcaigdlmY@43.207.73.53:15105?allowInsecure=0&sni=appsvs.shop#@Hope_Net-join-us-on-Telegram
 
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ya.ru#%F0%9F%9B%A987%40ConfigV2RayNG
@@ -327,3 +329,5 @@ trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%40AliXTso
 
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#t.me%2FVMESSIRAN
+
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%9A%80%20%7C%20%40ConfigV2RayNG%2014
