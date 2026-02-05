@@ -98,10 +98,10 @@ https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/hy2.txt
 
 
 
-### **Subs(1-40)**:
+### **Subs(1-20)**:
 
 
-### _configs are distributed in 40 files_
+### _configs are distributed in 20 files_
 
 
 
@@ -165,66 +165,7 @@ https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub19.txt
 ```bash
 https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub20.txt
 ```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub21.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub22.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub23.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub24.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub25.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub26.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub27.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub28.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub29.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub30.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub31.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub32.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub33.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub34.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub35.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub36.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub37.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub38.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub39.txt
-```
-```bash
-https://raw.githubusercontent.com/PouyaKhDev/v2x/refs/heads/main/subs/sub40.txt
-```
+
 
 
 
