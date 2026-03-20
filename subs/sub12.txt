@@ -1,3 +1,9 @@
+vless://7c63a30d-f092-4ff0-b60a-2336be70865d@fast-mci.totalmntxah.ir:80?mode=auto&security=none&encryption=none&host=mncnrtuty-ioporff.global.ssl.fastly.net&type=xhttp#@meliproxyy
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.237:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20424513
+vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@104.17.165.123:443/?type=ws&encryption=none&flow=&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%7C%20%40v2rayeagle%20%7C%20%F0%9F%A6%85%20
+vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@45.130.125.160:443?path=%2F213.35.108.135%3A12596&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#Channel%20%3A%20%40Mb%20%F0%9F%8F%B4%F0%9F%8F%B3
+vless://daa3174b-9de5-4f93-a7d7-c03fbf4c553d@2app.star-direct.ir:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Dd2hetznjdpsjsbspdnspwnxmapqhsiwpwur6jdod738200.mrpixanos.ir&fp=chrome&type=ws&sni=Dd2hetznjdpsjsbspdnspwnxmapqhsiwpwur6jdod738200.mrpixanos.ir#جوین
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.178-0295
 ss://YWVzLTI1Ni1nY206OElXT2g5T0VGTEp1Mkt5SnMyaHRBNGJlWUxJVHlVN3hBaFI3UHhnUVZJYz0@89.44.113.169:35591#⚡Telegram
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?path=/&security=tls&encryption=none&host=OeSm02O7eJ.sMaRtTeChZaAl.InFo&type=ws&sni=OeSm02O7eJ.sMaRtTeChZaAl.InFo#VB
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@172.64.155.209:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20303396
@@ -243,6 +249,7 @@ vless://ba77276e-9939-4c6c-a73e-90e02b6faf13@2.56.125.101:443?encryption=none&fl
 vmess://eyJhZGQiOiI0MC4xNjAuMjMxLjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZjg1NzM5Zi0zNTUyLTQyMmYtYjE1MS0xMGQ5YTI5YjE1YjkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQVpBUkJBWUpBQjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@Pinterest.com:80?path=%2Fcontainers%2Ffi&security=&encryption=none&host=dojman.global.ssl.fastly.net&type=ws#ConfigV2RayNG
 vless://cda044f8-f9eb-400c-9a9a-7d0d98f20e9d@gtirsljf.korosh.online:443?encryption=none&type=tcp&headerType=none&security=none#VayNora
+vmess://eyJhZGQiOiAiOC4yMTguNTguODkiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJuMTc2MTIxNDkwNy43NHF4di50b3AiLCAiaWQiOiAiNGMxNzM5OWYtYzkzZC00NTI3LThhY2UtNWJkYzJmMDkwMWYzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIvCfh63wn4ewIFNoYXRha1ZQTiAyNDkyOTYiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4+04oCNU2hpbmUifQ==#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20249296
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5M1Nvd3FVa3J0MWNibTQ4N2c3NEFj@78.129.140.11:443#یام‌یام
 vless://9b36bf3f-c34c-595c-b175-42eddf438f21@musicafricabepersianall.com:25834?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ConfigV2RayNG%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%85%DB%8C%D8%B2%D8%A7%D8%B1%D9%85
 vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiYzUwZjk0ODAtMmUxZC00MGRiLTk0NTgtNjMwZTc5NjM2NjYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
@@ -273,9 +280,3 @@ vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4x
 vmess://eyJzY3kiOiAiYXV0byIsICJpZCI6ICI4ZTk0Nzg2Yy05ZmNhLTRhNDktOGM5MC1jMDIxYjJmZmQ0MjciLCAicGF0aCI6ICIvYXBpL3JlZ2lzdGVyL25ldy9uYW1lL2Rhdi9yZXNwb25zZS9jbVYwYVhKbFpDQm9aV3hzYnlCb2IzY2dZWEpsSUhsdmRTQjBhR2x6SUdseklHMTVJRzVsZHlCb1pXRmtaWElnZCIsICJwcyI6ICJcdWQ4M2RcdWRmZTNcdWQ4M2RcdWRkMjUrQ2hhbm5lbCtTZXJ2ZXIrRnJlZStARmFyYWhfVlBOIiwgIm5ldCI6ICJ0Y3AiLCAiYWRkIjogIjg5LjQ0LjI0Mi4yNTUiLCAicG9ydCI6ICIyMDEwIiwgInR5cGUiOiAiaHR0cCIsICJ0bHMiOiAibm9uZSIsICJob3N0IjogInBhcnNhYnIuY29tIn0=
 vless://6ea3a571-ca61-4724-9304-109fea98705f@81.12.33.3:710?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#@YamYamProxy
 trojan://telegram-id-privatevpns@13.37.23.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.18:9027#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20472682
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#💙
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.18:9084#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20118524
-vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@myserviran.serviran.workers.dev:443?path=/?ed=2048&security=tls&encryption=none&host=myserviran.serviran.workers.dev&fp=chrome&type=ws&sni=myserviran.serviran.workers.dev#جوین
-vless://959a00e5-7a82-41fc-a2f5-0f9b7292ae50@54.171.113.7:443?security=reality&sni=eset.com&fp=chrome&pbk=ATFTnlzA9sZIv55Hv1Vv-TGBONx5HeuXdWQH08XQumM&sid=fd1126f3&spx=/&type=tcp&encryption=none#SEGVpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmRjMDMzMTQ5MGJjNDMy@5.181.77.247:44748#⚡Telegram
