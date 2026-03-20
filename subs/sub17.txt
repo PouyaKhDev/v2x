@@ -1,17 +1,3 @@
-vless://3001ec8f-42a7-4785-a351-51651f817101@melli.hexogate.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=ca.nimatazikeh.sbs&fp=chrome&type=ws&allowInsecure=0&sni=ca.nimatazikeh.sbs#channel
-vless://163100aa-f9bd-4ada-ae17-ceeccc8ca66b@104.21.84.30:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=name.api-music-fa.com&type=ws&sni=name.api-music-fa.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20226302
-vless://0abfb033-6663-476e-bd85-abea6ee2d456@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:2095?path=/?ed=2087&security=&encryption=none&host=beh1.salonemojallal.ir.&type=httpupgrade#Config
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@151.101.65.55:80?path=/containers/fi&security=none&encryption=none&host=lexeu.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20537650
-vmess://eyJhZGQiOiAiODUuMTU5LjIyOS44IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhZmU1NzU1Ny1kZjI0LTQzZTUtOWNlYS01ZDJhY2MyY2FkMDgiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4NDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImd1biIsICJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0ifQ==
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.180:38388#🇻🇳VN
-vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjE5OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJwZWxhbmcub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJwcyI6ICLwn4ep8J+HqiBTaGF0YWtWUE4gOTI2MTI3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJwZWxhbmcub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4+04oCNU2hpbmUifQ==#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20926127
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰
-vless://10c07345-baa2-4631-8d4d-9d4fe866deb4@vip.nanotitab.com:57896?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@OnNetX
-vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@37.202.232.58:1122?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#VayNora
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.117.182:491?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0347
-vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#channel
-vless://67b4afda-335f-4d40-b509-ba0816088690@de.broadcasp.info:42542?encryption=none&headerType=http&host=excoino.com&security=none&type=tcp#🥐40@oneclickvpnkeys
-vless://c9369e89-b4c5-4cfb-8494-426f4afe70eb@85.9.105.113:26480?security=&encryption=none&headerType=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&type=tcp#Telegram:@config_proxy
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.33.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443?path=/eclbanws&security=tls&encryption=none&type=ws&sni=www.vk.com#⚡Telegram
 vless://e127f737-bd10-475a-9461-e68904180eab@130.193.59.133:51101?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=4ffc99daad0f261f#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20282501
@@ -122,6 +108,7 @@ vless://3bcb928b-447e-418e-8077-2f66509bada9@mr29.digitalcity2.fun:43732?securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#%F0%9F%87%BA%F0%9F%87%A6%20ShatakVPN%20338535
 vless://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.22
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@84.201.149.75:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=moodle.sligvpn.ru#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20478072
+vless://1fc319c6-fbfb-4054-9f58-806170f02a2a@167.235.68.235:8880?type=tcp&encryption=none&security=none#@V2rayNG3
 vless://725446d8-f355-4894-ab50-dde061681cc0@g1.faraztelecom.cloud:2082?encryption=none&type=tcp&headerType=http&host=speedtest.net&path=/&security=none#%E2%80%94Telegram%E2%80%94@V2rayng_Fast%E2%80%94
 vless://6b3b6dfb-5599-4b43-b60e-800638156dad@djangoproject.com:80?security=none&type=xhttp&headerType=&path=/SpringHQ@SpringHQ-TEL--@SpringHQ-TEL--@SpringHQ-TEL--@SpringHQ-JOIN-@SpringHQ-TEL--@SpringHQ-JOIN-@SpringHQ-TEL-@SpringHQ-TEL--@SpringHQ-JOIN-@SpringHQ-TEL--@SpringHQ?ed=80&host=&mode=auto&extra={
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@ltu01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#🥐4@oneclickvpnkeys
@@ -146,6 +133,7 @@ vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?path=vless-ws%2F%3Fed
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.113.199:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 vless://32b95b66-cbc0-4218-9873-f966bbdb64d1@57.131.19.236:5058?security=reality&encryption=none&pbk=04E0TOQrXL1Z40zAF99p6MR3WC4-iaAcVB4WNcDpuXo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20916770
 vless://6570d7cc-0e3d-49c2-ae23-e8ff8425b79d@199.232.193.242:80?path=/?ed=2560&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20667573
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
 vless://2ad04efa-d18a-442b-875f-48d12e11d822@185.172.88.4:22231?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=u1.mizulina.top#⚡️Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGZhNDU2OGYwZmNlNDUw@54.37.77.201:11201#⚡Telegram
 vless://faf5e40d-ded5-4939-9e35-d105f7ec9281@172.67.193.36:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080#@Hope_Net-join-us-on-Telegram
@@ -190,7 +178,6 @@ vless://59ec2f1f-e7b1-41c1-b80f-36d1ec76425c@iamac.iransalar.top:18164?encryptio
 vless://ad769f8d-9e20-45b7-9a8a-de11641b6590@68.183.205.118:443?path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20615248
 vless://b89696d2-68ec-4812-bd95-a8f017ad8b4b@NEW.CDN.TORPROSPEED.IR:2087?path=/&security=tls&encryption=none&insecure=0&host=kxfuftoukfxfuk.xuiprospeed.ir&fp=chrome&type=ws&allowInsecure=0&sni=kxfuftoukfxfuk.xuiprospeed.ir#@CooOw
 vless://8a4befcf-f30e-4114-a227-b82fe5034bff@www.speedtest.net:8080?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=19.v.V.v-_-_-V2rAy-_-_-v.v.v.v.speedtest.net.www.zula.ir.check-host.net.Vipnufilter.Online.&type=ws#@Hope_Net-join-us-on-Telegram
-ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@104.21.13.183:443#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20718572
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.176:38388#🇻🇳VN
 vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.14.19:80?path=/?ed=2560&security=none&encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&fp=randomized&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20277686
 vless://6ea3a571-ca61-4724-9304-109fea98705f@81.12.33.1:710?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#@YamYamProxy
@@ -280,3 +267,15 @@ ss://YWVzLTI1Ni1nY206@YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==:8388#%F0%9F%8F%B4
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#DS%205%20%28%40Outline_Vpn%29%20free
 vless://f9069b68-187b-4ec2-bab5-8684559b70be@51.250.108.190:443?security=reality&encryption=none&pbk=1o-cHJjBH0bnTUYB3IKtRJ10aiEvpBH5We5dApcTFFk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=f909cd661a#Telegram:@config_proxy
 vless://4795376d-be72-409d-a31d-530e7ad7adbd@195.85.23.248:443/?type=ws&encryption=none&path=/AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---&host=abriabri.abriabri.ir&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=abriabri.abriabri.ir#@AbriVPN-💗
+ss://YWVzLTI1Ni1nY206@Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYXhwMWRkbU1lYWNKZ0lCYjRJaUF5:8388#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20Exclusive%20SH%CE%9EN%E2%84%A2%20miner
+vless://Telegram-ipV2Ray-xre@www.speedtest.net:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#@Hope_Net-join-us-on-Telegram
+vless://30dd5974-780c-4743-b88a-12a4450bd2a3@hu.jojack.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=6354585c37827955&sni=hu.jojack.ru&type=tcp#🥐45@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.82.252.109:990#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20465012
+vless://11b0b18f-c916-4871-8846-821291ad4901@dragon.runflare.run:30304?type=ws&path=/project&host=dragon.runflare.run&security=none#@Hope_Net-join-us-on-Telegram
+vless://52b203f6-768f-4628-81ef-0230ec5cecac@104.18.150.234:443/?type=ws&encryption=none&path=/AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---&host=abriabri.abriabri.ir&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=abriabri.abriabri.ir#@AbriVPN-💖
+vless://6daaf5e9-3d34-406b-a6da-f1331b4d2cfd@85.133.162.6:48205?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.140.234.91:27775?security=&encryption=none&headerType=&type=tcp#Server%2038%20Group%205
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.23.236:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.99.207.191:27775?security=&encryption=none&headerType=&type=tcp#Server%2032%20Group%205
+vless://94b285fb-fb5b-4b82-944a-f97548ab622e@172.64.152.23:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cld-Free
+vless://a8439aac-8502-48e5-a87c-0a77802204d6@ir2.webira.net:19204?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#
