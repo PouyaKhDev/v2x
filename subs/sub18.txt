@@ -279,3 +279,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989#%F0%9F%87%B8%F0%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20785676
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWMxYmUzNjI4Njk4NmU0@57.129.94.79:11205#⚡Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11201#%5B@Amirhossein_Mahboobi%5D%20EG%2012467374
+vless://d2dce228-e2dc-474f-b189-42daded22ba5@188.114.98.217:80?security=none&sni=napdg1000072.reneelegitimate.workers.dev&type=ws#@Hope_Net-join-us-on-Telegram
