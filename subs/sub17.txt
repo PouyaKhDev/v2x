@@ -1,3 +1,5 @@
+vless://3001ec8f-42a7-4785-a351-51651f817101@melli.hexogate.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=ca.nimatazikeh.sbs&fp=chrome&type=ws&allowInsecure=0&sni=ca.nimatazikeh.sbs#channel
+vless://163100aa-f9bd-4ada-ae17-ceeccc8ca66b@104.21.84.30:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=name.api-music-fa.com&type=ws&sni=name.api-music-fa.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20226302
 vless://0abfb033-6663-476e-bd85-abea6ee2d456@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:2095?path=/?ed=2087&security=&encryption=none&host=beh1.salonemojallal.ir.&type=httpupgrade#Config
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@151.101.65.55:80?path=/containers/fi&security=none&encryption=none&host=lexeu.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20537650
 vmess://eyJhZGQiOiAiODUuMTU5LjIyOS44IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhZmU1NzU1Ny1kZjI0LTQzZTUtOWNlYS01ZDJhY2MyY2FkMDgiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4NDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImd1biIsICJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0ifQ==
@@ -141,7 +143,6 @@ vless://e929f51d-5a95-5432-b66f-cfe725ea1f61@188.253.26.39:442?security=reality&
 vless://391521f1-d8ef-489b-9c37-d7df0270501a@l32.magicnetwork.info:443/?encryption=none&flow=&host=divarcdn.com&type=tcp&headerType=http#%7C%20%40v2rayeagle%20%7C%20%F0%9F%A6%85%20
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.60.51:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?path=vless-ws%2F%3Fed&security=tls&encryption=none&host=vip-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip-romax-tiktok.hsjsak.ir#@Hope_Net-join-us-on-Telegram
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.70:9053#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20798620
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.113.199:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 vless://32b95b66-cbc0-4218-9873-f966bbdb64d1@57.131.19.236:5058?security=reality&encryption=none&pbk=04E0TOQrXL1Z40zAF99p6MR3WC4-iaAcVB4WNcDpuXo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20916770
 vless://6570d7cc-0e3d-49c2-ae23-e8ff8425b79d@199.232.193.242:80?path=/?ed=2560&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20667573
