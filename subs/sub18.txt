@@ -282,3 +282,4 @@ vless://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?security=tls&s
 vless://70557107-0ca9-4c37-f02c-09c333a3d219@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20284646
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46281#%F0%9F%87%AE%F0%9F%87%B1%20ShatakVPN%20282898
 vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv1.tsteamh.top:60001?security=none&type=ws&headerType=&path=&host=#⚡️Telegram
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.17.147.22:8443?encryption=none&security=tls&sni=hzr50.sepiol.name.ng&type=ws&host=hzr50.sepiol.name.ng&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20679863
