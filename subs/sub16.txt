@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.18:9079#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20946079
+vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.6.178:444?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&sni=ads.x5.ru&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&sid=0614386789abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇷🇺@EVAY_VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODkyYjJjY2NjYzAxMmY2@154.90.62.145:16672#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20239190
 vless://a918d35f-14f2-4464-95e1-aee3bb69802e@de.vpnspacev.com:443?encryption=none&fp=chrome&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&security=reality&sid=06bf5b24acb9&sni=vpnspacev.com&type=tcp#🥐68@oneclickvpnkeys
 vmess://eyJhZGQiOiAiZmluLTEtdHVuLmhhY2hhbWFuYXNoLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIsICJpZCI6ICJlYTI4MGZjYS00OTc1LTQzNzktODQ2ZS05OGVmNjI2OTk2MjUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIuKaoe+4j1RlbGVncmFtID0gQFNPU2tleU5FVCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
 ss://YWVzLTI1Ni1nY206WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.60:38388#🇻🇳VN
@@ -280,5 +283,3 @@ vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@178.250.243.182:443?flow=xtls-rprx-
 vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@it1.persianhostnet.ir:3124?security=none&encryption=none&headerType=none&type=tcp#VayNora
 vless://32f62565-7925-43c5-a69f-615f9649d71e@h1.site.asan-ps.ir:6684?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 vless://dbab44cd-e335-4429-97ce-1017b6e75fb5@proxy10.kahkeshan.store:19923?security=none&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.142-0262
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2RWaHREMTVmd3BRcXc3MEFOOEtydzZBeUg4T2FDUT09@51.195.203.247:8443#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20644788
