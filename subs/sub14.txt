@@ -1,3 +1,7 @@
+vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@srv16.outlinekeys.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&security=reality&sni=srv16.outlinekeys.com&type=tcp#🥐33@oneclickvpnkeys
+vless://a84b4e09-ceed-44a2-b0a2-d5ed7169d363@49.12.21.161:8081?security=reality&sni=Discord.com&type=tcp&fp=chrome&pbk=YsIMwJCi1GWR2wb36LFtuUJDKjPiI-py0ApJL-8Wdhk&sid=b7d1d4fed44b8223#t.me/entryNET/config=1856149016990536
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@convera.com:2053?path=%2Fdanfeng&security=tls&encryption=none&insecure=0&host=snippet.danfeng.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=snippet.danfeng.de5.net#ConfigV2RayNG
+vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#@V2rayNG3
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.177:38388#🇻🇳VN
 vless://75a97d88-6a45-4910-b4db-13f0484c8322@45.135.195.223:35493?type=grpc&encryption=none&serviceName=چنل#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20638165
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh38v3.viripdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAY_VMESS_free
@@ -100,6 +104,7 @@ vless://e100a774-bd63-4d61-8a43-6db1acfa89fb@91.98.80.2:8880?type=tcp&encryption
 vless://c249ca6f-1bde-479b-af96-da0e948a3800@104.17.147.22:443?path=%2Fadmin&security=tls&encryption=none&insecure=0&host=zitel.digikala-aparat-zula.com&type=ws&allowInsecure=0&sni=zitel.digikala-aparat-zula.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20183734
 vless://22fa731e-8707-4507-8641-8c1ff424fa45@13.39.104.36:4001?type=tcp&encryption=none&sni=wikipedia.org&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20753500
 vless://faefbd75-9a1c-4bbf-9b90-816966ecf554@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=httpupgrade#telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#%F0%9F%87%B2%F0%9F%87%A6%20ShatakVPN%20819135
 vless://admib@8.218.230.193:80?security=none&seed=@rootface
 vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@94.103.1.230:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#%3E%3E%40outline_vpn%3A%3ANL
 trojan://humanity@208.103.161.9:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20795339
@@ -160,6 +165,7 @@ vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.118:443/?type=tcp&encrypt
 vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@nls.zdshop.ir:80?mode=packet-up&path=/category/music?ed=8880&security=none&encryption=none&host=classnew.ir&type=xhttp#@v2rays_ha
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#%F0%9F%87%B0%F0%9F%87%BF%20ShatakVPN%20170428
 vless://f4e28bf7-c5f6-40de-be3e-b560a4bef575@vpn-de.spend.tg:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#جوین
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0376
 vless://ca911bd2-e08f-42d8-aefb-3117494d3367@93.152.217.231:1080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&security=reality&sid=3328fe06cadd782e&sni=sun6-22.userapi.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20327702
 vless://41563f48-2378-43dc-9938-47f211c58ff7@151.101.64.223:80?path=/download&security=none&encryption=none&host=sAbzNeT.glObal.sSl.fasTly.nEt&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20110003
 vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@172.64.152.23:443?path=/130.162.193.183:15401&security=tls&encryption=none&alpn=http/1.1&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20363076
@@ -278,8 +284,3 @@ vless://992806b8-e92e-4cdc-e27e-04710900286f@167.71.46.61:59863/?type=tcp&encryp
 vless://e329843c-02c3-4401-8289-cf196d5a6921@89.208.87.173:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20911948
 vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@www.parsvds.ir:8080?path=/telegram%3DV_2RAYNGVPN&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=FySuMyYk3.aMirsiTesos.sItE.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v_2rayngvpn%20%231
 trojan://T9BpZIVMNv@172.66.44.211:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20988207
-vless://3f69e80f-57cd-4e22-8f6f-fa742d8c30bb@www.parsvds.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Zapdns_r4fh_iw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=Zapdns_r4fh_iw9jl4i4rx.zjde5.de5.net#📍Telegram
-vmess://eyJhZGQiOiJ0Mi5raG9kZWltb2JpbGUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFmMWM5ZWExLTlhNzktNDU5My1hNzFlLWUzNzk3NDM0MmM3NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI0NjMzIiwicHMiOiJDb25maWcgMyAtIEBsZWJlcnRhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://1dabe61b-25af-4459-a6ce-e8324f685a4e@185.128.40.40:17823?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@172.67.199.209:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@Magsin_Vpn
-vless://10d9a058-4cda-41a5-af1e-fb17700c2622@CDNT.MAHOSHID.IR:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2&host=vod.mahoshid.ir&fp=chrome&type=ws&sni=vod.mahoshid.ir#@v2rays_ha
