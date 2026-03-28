@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20965333
+vless://bfc4f76b-6ad5-48ba-a233-c5ef08dd2257@masterserver1.huqpmfood.ir:1331?mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&encryption=none&extra={
+vless://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
+vless://70557107-0ca9-4c37-f02c-09c333a3d219@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20284646
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46281#%F0%9F%87%AE%F0%9F%87%B1%20ShatakVPN%20282898
 vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv1.tsteamh.top:60001?security=none&type=ws&headerType=&path=&host=#⚡️Telegram
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.17.147.22:8443?encryption=none&security=tls&sni=hzr50.sepiol.name.ng&type=ws&host=hzr50.sepiol.name.ng&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20679863
@@ -280,7 +284,3 @@ vmess://eyJhZGQiOiIxNjIuMTU5LjE0MC44MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://d11fb55a-d651-4f6d-828b-ee7f2b1f0d78@70.34.214.175:23129?mode=gun&security=reality&encryption=none&pbk=pInfFMwVy_AJ7Nul07Ol-ZR2IprBpr5idc3mtGwoDnw&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=c8de20#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20535448
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.166-0339
 vless://Parsashonam-Bot-42@104.17.147.22:8880?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20630746
-vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?security=reality&encryption=none&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=41f38b2355acf7bc#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20612569
-vless://c38e6142-9223-47ef-84ce-2a84a308cafb@217.12.40.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&sid=4b523a98e1bbd15b#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20968728
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.101:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.141.221.101-4895
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?encryption=none&amp%3Btype=tcp&amp%3BheaderType=http&amp%3Bhost=skyroom.online&amp%3Bsecurity=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_vmes%20%231
