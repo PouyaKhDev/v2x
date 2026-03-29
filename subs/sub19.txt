@@ -1,3 +1,6 @@
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.17.147.22:8443?encryption=none&security=tls&sni=hzr50.sepiol.name.ng&type=ws&host=hzr50.sepiol.name.ng&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20679863
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.159:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20131550
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989#%F0%9F%87%B8%F0%9F%87%AE%20ShatakVPN%20808051
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20785676
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWMxYmUzNjI4Njk4NmU0@57.129.94.79:11205#⚡Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11201#%5B@Amirhossein_Mahboobi%5D%20EG%2012467374
@@ -287,5 +290,3 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality&encryption=none&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=200f99e321#%F0%9F%87%A6%F0%9F%87%B9%20ShatakVPN%20186612
 vless://0fbf867a-812b-4c0b-89cd-01bcf2e4039a@46.32.186.65:8443?security=reality&encryption=none&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6edd537cf27298d1#@V2rayNG3
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.138.24:544?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-0340
-vless://94f729b1-5e1c-474f-a952-b8816a04e2fc@195.2.76.224:48868?type=tcp&encryption=none&sni=apple.com&fp=chrome&security=reality&pbk=QU6XzGL-1O93-UxkJYiV364sy30S5bI5EOahJL2blnE&sid=f2e878#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20744842
-vless://e6913fad-3b6a-469e-8e2e-750616ba9928@aafc2.lizard2shop.com:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=at0.lizardshop.org&path=/?ed&sni=at0.lizardshop.org&fp=chrome#%3E%3E%40v2nodes%3A%3AAT
