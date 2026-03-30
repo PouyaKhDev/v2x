@@ -1,3 +1,4 @@
+vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@ip.notomarosww.com:8443?path=/Tel-@V2rayAlpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#MCI-@V2rayAlpha--1
 vless://a571b94c-a9f3-407a-a8ef-da608dab5472@46.226.167.138:46248?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20669663
 vless://798b223a-fcff-4467-bfb1-bde09c8354b4@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.192-0292
@@ -289,5 +290,3 @@ vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv30.outlinekeys.com:443?security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.235.249:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%F0%9F%86%9760%40oneclickvpnkeys
 vless://79d4382f-4b36-4bb5-8226-a154a2bdb97b@158.58.172.189:443?security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20778506
-vless://fef4510f-1717-1967-f752-de6ec4948f55@94.183.165.200:80?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#@vpnbaz
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.87.174:3901?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20830154
