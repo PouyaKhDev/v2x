@@ -1,7 +1,3 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@95.179.168.188:443?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.111000.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.de5.net#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20168916
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgU2hhdGFrVlBOIDc3MjI5MiIsICJhZGQiOiAiNDcuMjQyLjE5Mi4yMzMiLCAicG9ydCI6IDM0NjU5LCAidHlwZSI6ICJodHRwIiwgImlkIjogIjg0ODI2NzFlLTg0NmYtNDVjNy1hZWM0LTUzMWM3OWY3NzVlYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgIm5hbWUiOiAi8J+HrfCfh7Ag6aaZ5rivMnxAcmlwYW9qaWVkaWFuIn0=#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20772292
-vless://6944761b-3635-4508-a79e-0ad9b4393c17@Ipin1.Oldinomi.com:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=RoNan.FairIT.ir&type=ws&allowInsecure=0&sni=RoNan.FairIT.ir#channel
-ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:22039#🇯🇵
 vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@iran.zone-server-irani.ir:2053?path=/?ed=2048&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wizwiz.vidboxco.ir#channel
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.223.129:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://trojan@172.67.75.172:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20233523
@@ -15,6 +11,7 @@ vless://11c66cd1-fd59-409d-8898-a303ec94d1d0@sr100.cloud-files-uploader.com:2082
 vless://79df85dd-cb40-4b32-828e-f38d918d85e3@www.systemgamingirani.ir:2053?path=/?ed=2048&security=tls&encryption=none&host=retrieve-whois-data.wizardxray.net&fp=chrome&type=ws&sni=retrieve-whois-data.wizardxray.net#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20704300
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.14.60:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20674317
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
 vmess://eyJhZGQiOiIxOTMuMTExLjIzNi4xODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNhcnphbWluZG93bmxvYWQuY29tIiwiaWQiOiJkMjNjYjAzNS02MzExLTk3OTYtMzFhYi04MGJlN2QwY2JhMzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU2ODEyIiwicHMiOiLwn4eu8J+HtyB8IEBEYWlseVYyUHJveHkg8J+RiCDaqdin2YbYp9mEINiq2YTar9ix2KfZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 trojan://telegram-id-directvpn@63.177.190.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTExVakw1ZlZEOXotVnJRMjFieFVUckZoVFZNUmFUTQ@turkiye.vsemdostup.ru:8584#@V2rayBaaz
@@ -227,7 +224,6 @@ vless://59ec2f1f-e7b1-41c1-b80f-36d1ec76425c@iamac.iransalar.top:18164?encryptio
 vless://ad769f8d-9e20-45b7-9a8a-de11641b6590@68.183.205.118:443?path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20615248
 vless://b89696d2-68ec-4812-bd95-a8f017ad8b4b@NEW.CDN.TORPROSPEED.IR:2087?path=/&security=tls&encryption=none&insecure=0&host=kxfuftoukfxfuk.xuiprospeed.ir&fp=chrome&type=ws&allowInsecure=0&sni=kxfuftoukfxfuk.xuiprospeed.ir#@CooOw
 vless://8a4befcf-f30e-4114-a227-b82fe5034bff@www.speedtest.net:8080?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=19.v.V.v-_-_-V2rAy-_-_-v.v.v.v.speedtest.net.www.zula.ir.check-host.net.Vipnufilter.Online.&type=ws#@Hope_Net-join-us-on-Telegram
-ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@104.21.13.183:443#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20718572
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46575#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20171655
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.176:38388#🇻🇳VN
 vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.14.19:80?path=/?ed=2560&security=none&encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&fp=randomized&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20277686
@@ -288,3 +284,8 @@ vless://bcaabca-bcaa-abac-adbc-cbcccabbaaab@127.0.0.1:8080?security=tls&type=tcp
 vless://be73cb27-5632-417d-bef5-1906a62a624e@hope.zdshop.ir:2086?path=/?ed=2086&security=none&encryption=none&host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlincd1.kiwijuice.ir&type=ws#MCI-@V2rayAlpha-9
 vless://fec17569-c5a0-4b76-924c-d20a4054f20b@nl.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=findmypackets.com&sid=64c1fe36c7846400#🇳🇱AZARBAYJAB1
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.104:38388#@v2rays_ha
+vless://6ab34a7b-a953-492a-91fb-399c3a6a5c35@sr4.cloud-files-uploader.com:80?path=/&security=none&encryption=none&host=sr4.cloud-files-uploader.com&fp=chrome&type=ws#یام‌یام
+vless://296f8276-ebcc-4bb8-863d-777a6e6adada@185.215.231.118:11565?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@172.64.152.23:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#channel
+vless://28d0019f-bf58-408c-925f-9450f015a1a3@176.109.106.68:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hoff.ru&fp=chrome&security=reality&pbk=fjxEmxiZqQtLMkkYPA82WJ3dnHW6uwkKdsN2mmfkWAM&sid=15affa0af66dfc79#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20748356
+vless://84954c4b-b8e3-45cf-9c31-008f4c5dcd4b@h.hoomerent.eu:2001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=FOiMLjK4x-FjfarVeNllgS3-YaaWA34WYzNifqAd_Ds&sid=e5267dc8&type=tcp&headerType=none#🔥
