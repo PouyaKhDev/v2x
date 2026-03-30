@@ -1,3 +1,5 @@
+vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@91.98.194.132:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=c745dcb0#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20972015
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.52:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20191458
 vmess://eyJhZGQiOiIxMDQuMTYuMTguMTA4IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6Inplcm9jbG91ZGRkMS5vZmZpY2lhbHZwbi5zaG9wIiwiaWQiOiJhNDNlMjRjMC1kMjc4LTQ3MGYtODhkZi1iNjY0YjljY2MzMDYiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwODciLCJwcyI6IlRHIDogQEZlcmdhbFZwbk1vZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ6ZXJvY2xvdWRkZDEub2ZmaWNpYWx2cG4uc2hvcCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://6ea3a571-ca61-4724-9304-109fea98705f@81.12.33.7:710?security=none&type=tcp&headerType=http&path=/&host=igap.net#⚡Telegram
 trojan://telegram-id-privatevpns@63.177.190.223:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
@@ -292,5 +294,3 @@ vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv6.tsteamh.top:60006?security=none
 vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@85.237.211.139:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%F0%9F%87%A6%F0%9F%87%AA%20ShatakVPN%20285767
 vless://a29a5cb2-572a-43a1-b0a5-8bd68932d864@db.moviesdb.ir:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@V2ray1_Ng
 vless://33c4d5fa-6059-4fea-d201-00f44fde4f73@134.122.92.45:27579/?type=tcp&encryption=none&flow=#%7C%20%40v2rayeagle%20%7C%20%F0%9F%A6%85%20
-vless://6114c870-0bca-48fc-b002-a3f0357c7e8b@fi.ftp.arvan.digikalamag.top:2020?security=&encryption=none&host=goftino.com&headerType=http&type=tcp#channel
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20145643
