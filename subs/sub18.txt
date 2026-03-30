@@ -1,10 +1,3 @@
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@95.163.182.181:443?type=tcp&security=reality&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sni=api-maps.yandex.ru&flow=xtls-rprx-vision&fp=chrome&sid=e5f67890&encryption=none#
-vless://de7b6583-99d7-4376-a947-7040ccaf33a9@172.67.166.46:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=/eyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20652488
-vless://883db641-a174-4f81-9e73-f9ab6f321dac@SpEeDtEsT.NeT:80?mode=auto&path=%2FHajAmirVip%3F%3D2048&security=none&encryption=none&host=fasthetz.global.ssl.fastly.net&type=xhttp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-trojan://fe04888f-970d-44c8-8b56-26a74ea26d3c@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-vless://99d620d4-8cb4-4129-a3e3-183939766124@fi1.persianpinggame.ir:9096?encryption=none&security=none&type=tcp&headerType=http#🔥
-vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@80.211.136.126:20811?security=reality&encryption=none&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&headerType=none&fp=firefox&type=tcp&sni=gameup.ir&sid=22b2598a025a3fde#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20525959
-vless://a103bf8a-c786-4117-a5c4-3570935dfe63@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 trojan://T9BpZIVMNv@vip2.kaixincloud.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=/amd&sni=sweden.vmaxpanel.com&type=ws#🥐51@oneclickvpnkeys
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.117.48:2096?security=tls&sni=xinh.ylks.link&type=ws&path=/blue#@Hope_Net-join-us-on-Telegram
 vless://rootface@[0:0:0:0:0:ffff:08d2:1005]:2086?security=none&seed=/
@@ -191,6 +184,7 @@ vless://e4c18050-3e61-42e3-9345-77d4179541c4@188.114.98.0:2087?path=/@OnNetX&sec
 vless://b512bde6-dc0d-42ce-aad1-4dd0a9baa99c@89.47.202.154:1717?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#🌹
 trojan://humanity@172.64.155.209:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20585624
 vmess://eyJhZGQiOiI1LjgzLjE1MC4xMDgiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiYjAxZDFlMjYtMmY4NC00OGRhLTg4YTEtMWQwNmE3Nzg1N2YzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI4NTc0LCJwcyI6IuKdjETDvHNzZWxkb3JmLUdldEFGcmVlTm9kZS5jb20iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 vless://174ba1c4-e694-472f-8f1b-1140752338f5@ultrawide.zaros.tech:12003?security=reality&amp%3Bencryption=none&amp%3Bpbk=mjg5hfiykNBo-KPtce-RTU3BumTDlq0BGna1-7CO0gA&amp%3BheaderType=none&amp%3Bfp=firefox&amp%3Bspx=/&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=www.speedtest.net&amp%3Bsid=e6488676#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40connectshu%20%231
 vless://67bad1be-8510-4703-91f2-b566d7213598@ir2.gitmaker.ir:777?security=none&encryption=none&headerType=none&type=tcp#@CoOow
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.35.113:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
@@ -256,7 +250,6 @@ vless://01c4caac-6f75-49d2-be5f-8bce33441057@151.101.67.8:80?mode=auto&path=/&se
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.70:9037#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20377783
 vless://3b1d4dc3-8872-4c8b-aa14-2fabf06a13fc@104.19.173.68:8080?security=&type=ws&path=/&host=dildodod.decoreland.ir.&encryption=none#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiMzc4NmU2N2EtNDFlYi00YjkyLWIzMWUtNDE3ZTg5NDkzYjkzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
-trojan://humanity@104.18.0.55:443?type=ws&path=/assignment&security=tls&sni=www.gossipglove.com&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20353256
 vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv2.tsteamh.top:60002?security=none&type=tcp&headerType=http&path=/&host=cafeariel.ir#⚡️Telegram
 vless://2e11e5a2-38eb-4842-9ad7-ed57df1eb676@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:2095?path=%2F%3Fed%3D2087&security=&encryption=none&host=beh1.salonemojallal.ir.&type=httpupgrade#%F0%9F%92%AB%20%40ConfigV2RayNG%20%28Vless%29
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20112007
@@ -291,3 +284,10 @@ vless://12635d28-095f-4cb7-872d-0d97433286ed@ip5.neoservers.ir:8443?security=tls
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7%20ShatakVPN%20649571
 vless://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#channel
 vless://36f865d3-979b-4c7e-a117-2ec48092a69d@144.31.180.143:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=de.boxypn.com&fp=chrome&pbk=TjxmFHJN-olJvkXLicHGzNIMxJyucaA_ht3w3J-YcHM&type=tcp&headerType=none&path=/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20753375
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.70:9084#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20862969
+trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20830791
+vless://30dd5974-780c-4743-b88a-12a4450bd2a3@fr.cdn.stun.su:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8LWgKu6h8cXgOAixKaKPdGponKkAeQaq-IszDEQ4ojM&security=reality&sid=2f5ce2df83a89d2f&sni=fr.cdn.stun.su&type=tcp#🥐62@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20965333
+vless://bfc4f76b-6ad5-48ba-a233-c5ef08dd2257@masterserver1.huqpmfood.ir:1331?mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&encryption=none&extra={
+vless://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
+vless://70557107-0ca9-4c37-f02c-09c333a3d219@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20284646
