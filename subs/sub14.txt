@@ -1,3 +1,11 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#@v2rays_ha
+vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?type=ws&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560&host=pamchall.com.&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20873941
+vless://a59cf680-da0d-4ed3-edf1-99c99105916a@209.38.197.67:34217?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20825941
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@217.30.10.18:9098#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20790558
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@chatgpt.com:443?path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=apii.onlineshoppingez.ir&fp=chrome&type=ws&allowInsecure=1&sni=apii.onlineshoppingez.ir#🚀46@ConfigV2RayNG
+vless://546590e9-96bf-4bc7-9909-58d352196f05@hesam.xv98.ir:608?path=/ws?ed=2048&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#@icv2ray
+vless://016f56be-21ba-4c39-aa3d-2cc2c3ea9929@104.21.224.5:8880/?type=ws&encryption=none&flow=&host=r-one.lat&path=%2FeyJqdW5rIjoicXNuOHJDRXhEdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3Fed%3D2560%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20895811
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@188.114.98.0:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#@i10VPN
 vless://ea1bc68c-ede8-4e6a-a362-11d6761aa2e1@Up.love-speed.sbs:7567?security=reality&encryption=none&pbk=DSF9EhsLMGd7Clgh7PhrY4AmCxIYtCnATRrzA2sVTis&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.dadyaran.ir&sid=abb50e#@V2ray_confing33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20957999
 vless://40a63862-62b9-4ba5-ac37-b45eea53d40a@cp4.azangooo.ir:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=backup.f-sub.cfd&fp=chrome&type=ws&sni=backup.f-sub.cfd#%40Al
@@ -284,11 +292,3 @@ vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@ChatGPT.com:443?type=ws&security=tl
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.202.91:8443?security=tls&sni=hkh.ylks.link&type=ws&path=/#@Hope_Net-join-us-on-Telegram
 vless://02b320ce-09f8-4cb5-9c46-9024f5585881@free1.barayekhudam.ir:2255?type=tcp&encryption=none&sni=radar.arvancloud.ir&fp=firefox&security=reality&pbk=Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc&sid=983c9303725c67#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20143401
 vless://DIGIV2RAY@185.146.173.68:2095?Telegram=@V2RayTz,@V2RayTz&path=/DigiconnecT?ed=1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram
-vless://c33275fd-a4fa-470d-90e4-55da39d849a8@129.212.220.224:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=panbehpanel.ir#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20798952
-vless://5155ec49-a7ec-4228-b8df-768b4e4c498d@193.151.143.4:2095?security=none&encryption=none&headerType=none&type=tcp#@v2rays_ha
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20559129
-vless://86b0c3bf-7852-4318-a320-fe1cc3903dc8@173.245.59.61:443?path=/?ed=2048&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=user5.mohammadsd8666.workers.dev&fp=chrome&type=ws&sni=user5.mohammadsd8666.workers.dev#Telegram
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.165:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20594556
-trojan://ywKD_HtMm.L6lXjzU%23pCiBv@45.77.69.200:8080/?type=tcp&security=tls&sni=sing-box.downloadeasysave.com#%7C%20%40v2rayeagle%20%7C%20%F0%9F%87%BA%F0%9F%87%B8
-vless://b86c998e-c285-40ff-9a8a-492d29c5d4f0@tnl1.lalash.my:58753?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@meliproxyy
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@ipw.ygdfw.com:443?mode=stream-one&path=/&security=tls&encryption=none&host=Tp0104TmTl.DoTa2PlAy.InFo&type=xhttp&sni=Tp0104TmTl.DoTa2PlAy.InFo&note=@freeOnlineVPN#🇳🇱
