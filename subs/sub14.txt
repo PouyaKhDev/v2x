@@ -1,9 +1,3 @@
-vless://6cc29c63-186e-4518-9648-d4ad948e6439@104.21.20.148:8080?Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#@Hope_Net-join-us-on-Telegram
-vless://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&headerType=http&host=speedtest.net&security=none#@v2rays_ha
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.158.171.70-0403
-vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@172.66.128.70:80?path=%2F%3Fed&security=none&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20823271
-vless://3bdaeb7f-c0fb-406a-9c03-37bb3be055ab@172.64.34.99:443?path=/nrbpjkws&security=tls&encryption=none&insecure=1&host=639025539575707828.highlander-amsjk.info&type=ws&allowInsecure=1&sni=639025539575707828.highlander-amsjk.info#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20570835
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.61:38388#🇻🇳VN
 vless://4af37467-bf79-4630-98d5-73e7dad60e90@ak2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58#@meliproxyy
 vless://844e0f15-6ea4-4dd7-8f08-11311c9c23e8@cname3.sonamii.com:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=sina.sonami.site&type=ws&allowInsecure=1&sni=sina.sonami.site#Telegram:@config_proxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#@v2rays_ha
@@ -294,3 +288,8 @@ vless://f657435d-4c1d-49dc-96fa-de06e5635255@92.114.24.80:44387?security=none&en
 vless://SERVERNETT-SERVERNETT1@mnk.sernett.ir:80?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%40EuServer
 vless://d7122520-631e-4c4c-87db-7f38ddaf4f0b@213.165.65.5:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#IR-@V2rayAlpha-22
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?encryption=none&type=tcp&headerType=http&host=chess.com&path=/#⚡Telegram
+trojan://c1d83c0c7d57cead4379ba14a82df69b@152.42.254.150:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
+vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@ChatGPT.com:443?type=ws&security=tls&path=/129.150.58.86:57621&host=afrcloud4.c01.kr&sni=afrcloud4.c01.kr&fp=chrome&encryption=none#@v2rays_ha
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.202.91:8443?security=tls&sni=hkh.ylks.link&type=ws&path=/#@Hope_Net-join-us-on-Telegram
+vless://02b320ce-09f8-4cb5-9c46-9024f5585881@free1.barayekhudam.ir:2255?type=tcp&encryption=none&sni=radar.arvancloud.ir&fp=firefox&security=reality&pbk=Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc&sid=983c9303725c67#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20143401
+vless://DIGIV2RAY@185.146.173.68:2095?Telegram=@V2RayTz,@V2RayTz&path=/DigiconnecT?ed=1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram
