@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.35:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20578002
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@54.216.127.183:27775?security=&encryption=none&headerType=&type=tcp#Server%203%20Group%201
-vless://16fe2ff8-e88b-44bf-bf68-16c8d243ab86@sr3.naxilo.fun:2095?security=none&encryption=none&headerType=none&type=tcp#[93025]
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.14:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20453058
 vless://fbfb16f8-8332-47e5-ba31-6769029b1d69@104.21.69.44:8443?security=tls&sni=offlinenet-some1274.aminho3ien.ir&type=grpc&serviceName=OfflineNet-vnpr3-u3ervpn&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@104.17.162.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🇳🇱
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.127:38388#🇻🇳VN
@@ -35,6 +31,7 @@ vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@188.114.98.0:443?path=?ed=2560&secu
 vless://992806b8-e92e-4cdc-e27e-04710900286f@167.71.46.61:59863/?type=tcp&encryption=none&flow=#%7C%20%40v2rayeagle%20%7C%20MCI
 vless://e329843c-02c3-4401-8289-cf196d5a6921@89.208.87.173:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20911948
 vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@www.parsvds.ir:8080?path=/telegram%3DV_2RAYNGVPN&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=FySuMyYk3.aMirsiTesos.sItE.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v_2rayngvpn%20%231
+trojan://T9BpZIVMNv@172.66.44.211:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20988207
 vless://3f69e80f-57cd-4e22-8f6f-fa742d8c30bb@www.parsvds.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Zapdns_r4fh_iw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=Zapdns_r4fh_iw9jl4i4rx.zjde5.de5.net#📍Telegram
 vmess://eyJhZGQiOiJ0Mi5raG9kZWltb2JpbGUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFmMWM5ZWExLTlhNzktNDU5My1hNzFlLWUzNzk3NDM0MmM3NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI0NjMzIiwicHMiOiJDb25maWcgMyAtIEBsZWJlcnRhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://1dabe61b-25af-4459-a6ce-e8324f685a4e@185.128.40.40:17823?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -290,3 +287,7 @@ vless://16aa617a-631d-4be3-8a6f-819a7b7480d0@91.107.244.240:8443?security=realit
 vless://3d29bd40-5f23-4024-aab6-17258cd55a7e@158.160.53.57:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20574598
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.167:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20268351
 vless://e563e69c-484d-4c43-84f6-19de620ad74e@ip.hamrahto.com:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#@V2ray1_Ng
+vless://b30299bb-fd03-4a9c-a28b-62f6922ffbff@ipbaz.ping-box.com:2053?path=%2Flatest%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hz.badomzamini.uk&fp=chrome&type=ws&allowInsecure=0&sni=hz.badomzamini.uk#%40V2RAY_VMESS_free
+vless://fcbd817a-cefe-4f54-922a-53487f068147@tunnyl.ru:3443?encryption=none&security=reality&sni=www.bing.com&fp=chrome&pbk=VuGbF41ZZJnNSTXTnQiT59bug135kyLp6MNx0_rO2Bo&sid=f2b23eb38f49f2&spx=/&type=tcp&headerType=none#Telegram:@config_proxy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.45.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@178.250.246.80:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%7C%20%40v2rayeagle%20%7C%20%F0%9F%87%B7%F0%9F%87%BA
