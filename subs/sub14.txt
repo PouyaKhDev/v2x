@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20856924
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.75.119.38:990#%F0%9F%87%A6%F0%9F%87%BA%20ShatakVPN%20271414
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDc1ZGU3NDBlM2Q1MTk3@57.129.95.140:11201#@V2RAY_VMESS_free
 vless://045ae46c-40c0-4191-b5d0-b2811d55c827@de-01.anotherboring.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mail.yandex.ru&fp=chrome&security=reality&pbk=C1nTKBKNuCc5B1iMqbNBodE9W9lQJovw--jF6yhE8DM&sid=9d21bea37f7da010#🛩67@oneclickvpnkeys
@@ -289,5 +290,3 @@ trojan://c1d83c0c7d57cead4379ba14a82df69b@38.180.137.196:443?allowInsecure=0&sni
 vless://a26bbed7-a286-4840-84bc-dc102c526777@151.101.2.219:80?mode=auto&path=%2Fcategory%2Fmusic&security=&encryption=none&host=iran.boltboost.gg&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20275281
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?allowInsecure=0&sni=web.max#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
 vless://9a5c366e-5d5d-4fbb-85d5-985344ba5369@stella.ns.cloudflare.com:80?path=%2Fwww.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.google.com-www.google.com-www.google.com-www.google.com-www.speedtest.net--www.speedtest.net--www.speedtest.net--www.speedtest.net--www.speedtest.net%3Fed%3D32517&security=&encryption=none&host=hsvajja-182662626262627272.poshakhowdy.ir.&type=ws#%F0%9F%96%A4%F0%9D%92%84%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%8D%20%F0%9F%91%89%40ConfigV2RayNG%F0%9F%96%A4
-vless://aab679f9-f437-498a-836b-c8137264666a@87.107.83.115:40552?encryption=none&security=none&type=tcp&headerType=http&host=eset.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20335422
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.35:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20578002
