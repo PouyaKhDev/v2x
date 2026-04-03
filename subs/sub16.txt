@@ -1,3 +1,11 @@
+vless://76e2a322-1c23-4c91-b2e1-40944d23fc48@www.s2pp.ir:8443?path=/path&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=damn.norino.store#TG
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://7eca11c9-6b01-422c-895f-845b5a80528a@germanyconfhetz.rjwarehousing.ir:9987?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#📍Telegram
+vless://479809ec-c071-425d-b129-61d9a6ff3c34@fast.soltan.beauty:80?path=%2Fed%3D2560&security=none&encryption=none&host=mokorofi.kamacp.com&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptdE5TY0xhTjM3dnN0S1VCcXNwQVZEZjJ6UTl0ZXZXMXVZMXFMVzdLbVIzZk5hZjloamNZNThLaHEyRTNSSG9TYk1XNHVvTTFLcjhjdnQ4UGsySlFjeGRjZ1NWVjlyVXY=@mx2.drawnrisha.one:55988#@filembad
+vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@198.41.207.184:8880?host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=/&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20872126
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDQ3MDM2YzQ1NTk2NjA1@57.129.94.79:11208#telegram%20%F0%9F%8E%AA%20dailyv2ry
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.122:8008#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://919c1334-5a4a-4eb4-930a-7576b307aa48@185.76.243.226:443#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20840124
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@192.144.19.55:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#📍Telegram
@@ -278,12 +286,3 @@ vless://557a0638-0981-4176-a8bc-13dbf588291d@37.139.32.212:443?security=reality&
 vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@172.67.182.46:443?security=tls&sni=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&type=ws&host=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#t.me/entryNET/config=1856145240985903
 vless://V2RAXX----@V2RAXX-channel.cataba.ir:2053?path=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX&security=none&encryption=none&type=ws#🇩🇪ALL¹
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?type=ws&path=/Fvy0Y7NJ7uucUDha?ed=2560&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20314737
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20784442
-vmess://eyJhZGQiOiIxNDEuMTAxLjEyMi4xMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZveHBvbC5mb3ZpLnRrIiwiaWQiOiJiZjY3NDM3ZS02YzkwLTQ1Y2EtYWJjMi1jNzI0MGE1Y2UyYWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWlzYXNxYSNUTSAoQEFaQVJCQVlKQUIxKVRNIChAQVpBUkJBWUpBQjEpVE0gKEBBWkFSQkFZSkFCKT9lZFx1MDAzZDI1NjAiLCJwb3J0IjoiODA4MCIsInBzIjoi8J+HrPCfh6dUTSAoQEFaQVJCQVlKQUIxKSIsInNjeSI6ImF1dG8iLCJzbmkiOiItLS1AQVpBUkJBWUtBQjEtLS1AQVpBUkJBWUpBQjEtLS1AQVpBUkJBWUpBQjEtLS1AQVpBUkJBWUpBQjEtLS1AQVpBUkJBWUpBQjEiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#%40EuServer
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.42:5004#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vless://3bcb928b-447e-418e-8077-2f66509bada9@mr29.digitalcity2.fun:43732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram:@config_proxy
-vless://17714732-15b6-5b7a-9703-8c874ef8bef4@104.25.97.27:80?security=none&type=ws&host=55965.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#%F0%9F%87%BA%F0%9F%87%A6%20ShatakVPN%20338535
-vless://258bad91-733a-4e6a-96f4-11568b97c04a@194.76.18.25:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.22
