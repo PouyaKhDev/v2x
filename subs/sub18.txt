@@ -1,3 +1,8 @@
+vless://c243a123-c6ca-4115-a955-3ddce53e257d@162.159.152.4:443?path=/188.132.192.194=2053&security=tls&encryption=none&insecure=1&host=fuchsia.qzz.io&type=ws&allowInsecure=1&sni=fuchsia.qzz.io#@v2rayngzendegimamad🕊️
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsvCfh74gU2hhdGFrVlBOIDY5OTUwMiIsICJhZGQiOiAiNDcuMjUwLjE0OC4xNjEiLCAicG9ydCI6IDQyNzkxLCAiaWQiOiAiOWZmZjlkOGMtODY4Mi00MmNlLTg0N2UtMGU0NDU1ODI0NWMwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAibmFtZSI6ICJWTS0xMTE0LTAxIn0=#%F0%9F%87%B2%F0%9F%87%BE%20ShatakVPN%20699502
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.53:3389#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiMTI5Mjk1OTItYTdiZC00MWViLWFiNGQtZDgwNGY3NmM0ZmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+vless://e392ddec-1fe5-437a-b686-c2e697fa62a9@cdn-one.tyts.ir:53627?encryption=none&type=tcp&headerType=http&host=VayNora@VayNora@VayNora@VayNora&path=/&security=none#VayNora
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.70:9094#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20119164
 vless://979b6822-d65a-400d-89f8-30391903ac20@173.245.59.121:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.8
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.203:443#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -282,6 +287,3 @@ vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?encryption=none&typ
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.122:8118#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.217.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0257
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.102:6679#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vless://eb68a74a-f1b2-576f-97db-d851cb651194@104.21.12.90:80?security=none&type=ws&host=04bb7.biu996.live&path=%2Fvless#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vless://b841859d-b59d-42e3-8282-1fa879ad660e@151.101.2.165:80?security=none&type=ws&host=Aqakheylynamardin.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
