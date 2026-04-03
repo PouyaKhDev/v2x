@@ -1,3 +1,6 @@
+vless://eb68a74a-f1b2-576f-97db-d851cb651194@104.21.12.90:80?security=none&type=ws&host=04bb7.biu996.live&path=%2Fvless#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vless://b841859d-b59d-42e3-8282-1fa879ad660e@151.101.2.165:80?security=none&type=ws&host=Aqakheylynamardin.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.154:3306#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://8e4257a8-668c-40fc-9e53-612aec460652@46.38.147.4:3113?encryption=none&security=none&type=tcp&headerType=http&host=filmnet.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20222855
 vless://88d848f8-88ac-4a90-8258-d61a491ce34e@144.124.246.218:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn-fastly-v6.deb.debian.org&fp=chrome&security=reality&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20704728
 trojan://telegram-id-privatevpns@15.188.216.8:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
@@ -284,4 +287,3 @@ vless://5d3de11f-7d09-4e35-9d11-8b42fa4f0110@base.apkfa.com:8880?encryption=none
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@151.101.0.84:80?path=/containers/fi&security=none&encryption=none&host=dojman.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20220038
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.183-0299
-vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiNmQ2MDA4NjQtMzJkYS00OWZkLWJhZjQtN2RmMDUxNzYyNDU0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
