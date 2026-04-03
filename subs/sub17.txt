@@ -1,5 +1,3 @@
-vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@iran.zone-server-irani.ir:2053?path=/?ed=2048&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wizwiz.vidboxco.ir#channel
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.223.129:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://trojan@172.67.75.172:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20233523
 vmess://eyJhZGQiOiIxMzcuNzQuMTE5LjE4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVhYmIzNzE5LTYzNmQtNDAzMC04NjQ5LTA0NGFiY2QwNTg3NSIsImluc2VjdXJlIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIwMzVkNzNiNC1kMzVjLTQwZDUtOTdiNS1lYmRlOWY2NWU3N2IiLCJwb3J0IjoiMzAwMSIsInBzIjoiPj5AVjJSQVlfVk1FU1NfZnJlZTo6RlIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6InV0cCIsInYiOiIyIn0
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20-%20Riyadh%201
@@ -291,3 +289,5 @@ vless://6ab34a7b-a953-492a-91fb-399c3a6a5c35@sr4.cloud-files-uploader.com:80?pat
 vless://296f8276-ebcc-4bb8-863d-777a6e6adada@185.215.231.118:11565?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@172.64.152.23:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#channel
 vless://28d0019f-bf58-408c-925f-9450f015a1a3@176.109.106.68:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hoff.ru&fp=chrome&security=reality&pbk=fjxEmxiZqQtLMkkYPA82WJ3dnHW6uwkKdsN2mmfkWAM&sid=15affa0af66dfc79#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20748356
+vless://84954c4b-b8e3-45cf-9c31-008f4c5dcd4b@h.hoomerent.eu:2001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=FOiMLjK4x-FjfarVeNllgS3-YaaWA34WYzNifqAd_Ds&sid=e5267dc8&type=tcp&headerType=none#🔥
+vmess://eyJhZGQiOiIxNTIuNzAuOTIuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmI5YzM5OTMtYTRiOS00ZGFkLWFlYjktYWM4NjM3MWFlNjhiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6Ij4+QG9uZWNsaWNrdnBua2V5czo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1IiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
