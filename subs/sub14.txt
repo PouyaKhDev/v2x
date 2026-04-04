@@ -1,4 +1,3 @@
-vless://10d9a058-4cda-41a5-af1e-fb17700c2622@46.225.60.87:1210?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@PRS_MLBB
 vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@87.236.38.10:8017?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@Magsin_Vpn
 vless://d1ca3d04-50d7-4e8e-b82f-f537ade41a71@212.23.214.130:80?security=none&type=tcp&headerType=http&path=/&host=mir-data-60.myket.ir#🇬🇧
 vless://99d620d4-8cb4-4129-a3e3-183939766124@46.38.150.230:9096?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20917309
@@ -287,3 +286,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9LT7wn4e68J+HuF9VU1/nvo7lm70i
 vless://30dd5974-780c-4743-b88a-12a4450bd2a3@nl.jojack.ru:443?security=reality&encryption=none&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.jojack.ru&sid=bdb320c23593c3d4#@Magsin_Vpn
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@15.223.39.80:27775?security=&encryption=none&headerType=&type=tcp#Server%2040%20Group%205
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.168-0351
+vless://be3c1f31-38cf-4be5-8af1-35a54f978683@172.64.152.23:2053?security=tls&allowInsecure=0&encryption=none&type=ws&host=api3.diiginet.ir&sni=api3.diiginet.ir&fp=chrome#https://t.me/config_v2rayy
