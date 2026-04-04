@@ -1,4 +1,3 @@
-vless://3edc2346-b83c-4302-aa12-6b0fb3e4ae2a@4ir_1.oiut.ir:8443?encryption=none&security=none&type=ws&path=/@vpn4ir_1/@vpn4ir_1/@vpn4ir_1#@vpn4ir_1-@vpn4ir_1
 vmess://eyJhZGQiOiAiMTcyLjY0LjE1NS4yMDkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJrazEuZ2FtaW5nLWNlbnRlci5pciIsICJpZCI6ICIzYTliYjFmZS1hZGIzLTQ2ZjMtYjE2Yy02YWY1ZmRkZTUzMjYiLCAiaW5zZWN1cmUiOiAiMSIsICJuYW1lIjogIvCflKVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIwODMsICJwcyI6ICLwn4e68J+HuCBTaGF0YWtWUE4gNTM5NzA2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJrazEuZ2FtaW5nLWNlbnRlci5pciIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20539706
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#%F0%9F%87%A6%F0%9F%87%AAAE-95.174.68.33-0354
 vless://94dac470-7ebf-4483-a904-6bb6e8d12a87@zula.ir:8080?path=SHHPROXY?ed=8080&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net.&type=ws#@Hope_Net-join-us-on-Telegram
@@ -244,7 +243,6 @@ trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=/&security=tls&host=snippets.kkii
 vless://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3ADE
 vless://388de2f6-3920-45f9-945d-8059580c7367@185.146.173.58:8080?type=httpupgrade&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/&host=http.digicyber.click.&security=none#Telegram:@config_proxy
 vmess://eyJhZGQiOiAiOC4yMTEuMTcxLjExIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzQ0NDU0NTAxLjR1OW1hLmljdSIsICJpZCI6ICJiZWQ3Yjc0My02YmY4LTQ2YTItYjM0Ni1jNjBlNjA5MTkyMjAiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICLwn4ev8J+HtSBTaGF0YWtWUE4gODIwMDQ5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJuMTc0NDQ1NDUwMS40dTltYS5pY3UiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAibmFtZSI6ICJDaGFubmVsIGlkOkBwcm94eV9rYWZlZfCfh6/wn4e1In0=#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20820049
-vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80/?type=ws&encryption=none&flow=&host=netherlands.padoamu.workers.dev&path=%2F%40WireXnet%3Fed%3D2048#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://33a57acf-163f-4cdd-8b23-cc52a58f2362@xhero.kharabetam.de:2053?path=/IfUknowThenUKnow&security=tls&encryption=none&host=mrx.xher0.de&type=ws&sni=mrx.xher0.de#VB
 vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@172.64.155.209:443?mode=auto&path=/sreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20197242
 vless://939a9632-9b8f-491d-8904-98445ca2e99d@104.18.4.130:8080?path=/path&security=&encryption=none&host=cdn.ciphergate.site.&type=ws#⚡Telegram
@@ -287,3 +285,5 @@ vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@198.41.207.184:8880?host=rightel.IR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDQ3MDM2YzQ1NTk2NjA1@57.129.94.79:11208#telegram%20%F0%9F%8E%AA%20dailyv2ry
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.122:8008#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://919c1334-5a4a-4eb4-930a-7576b307aa48@185.76.243.226:443#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20840124
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@192.144.19.55:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#📍Telegram
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?encryption=none&security=none&type=ws&host=tamamde1.global.ssl.fastly.net&path=%2F%3Fed%3D2052#telegram%20%E2%9A%A1%EF%B8%8F%20dailyv2ry
