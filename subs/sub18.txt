@@ -1,3 +1,4 @@
+vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@www.speedtest.net:2095?path=/?ed=2095&security=none&encryption=none&host=ba1.badomzamini.uk&type=httpupgrade&note=@freeOnlineVPN#🇩🇪
 vless://e0647347-d646-4113-94dd-e1083aa30474@visa.com:8080?path=%2FDAILYCONFIGS%3Fed%3D8080&security=none&encryption=none&host=DAILYconfigs-dailyCONFIGS-DAILYconfigs.vigilantecollection.com.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://4154b4df-d253-4157-8508-eba52f9e6a3c@144.31.90.185:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin.eu-ffast.com&fp=chrome&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#%F0%9F%87%AB%F0%9F%87%AE%20ShatakVPN%20743661
 vless://51c89ac3-ea33-4832-9a59-2505d33f4c84@94.141.123.235:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20973458
@@ -10,6 +11,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsvCfh74gU2hhdGFrVlBOIDY5OTUwMiIsICJhZGQiOiAi
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.53:3389#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiMTI5Mjk1OTItYTdiZC00MWViLWFiNGQtZDgwNGY3NmM0ZmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
 vless://e392ddec-1fe5-437a-b686-c2e697fa62a9@cdn-one.tyts.ir:53627?encryption=none&type=tcp&headerType=http&host=VayNora@VayNora@VayNora@VayNora&path=/&security=none#VayNora
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.70:9094#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20119164
 vless://979b6822-d65a-400d-89f8-30391903ac20@173.245.59.121:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.8
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.203:443#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5498#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -256,6 +258,7 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.53:8119#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?type=ws&encryption=none&host=ca.adobe-connect.top&path=/&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20745525
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.156:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20290067
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20979352
 vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@nl1.rsvps.tech:443?security=reality&encryption=none&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#TE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.188-0275
 vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&amp%3Btype=tcp&amp%3Bpath=/&amp%3Bsecurity=none&amp%3Bhost=www.speedtest.net&amp%3BheaderType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40komail315%20%231
@@ -286,5 +289,3 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.95.35.113:443#%F0%9F%87%BA%F0%9F%87%B8_
 vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:3443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AD%F0%9F%87%BA%20ShatakVPN%20993581
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.70:9001#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20590611
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=terazhedi.info&path=/sghiyws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20336294
-trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.45.139:3423?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0346
-vless://4b1167f6-8675-48c1-945f-75e8917b1d9b@prime.dissertationhelpspecialist.com:8443?encryption=none&fp=chrome&mode=gun&pbk=0iw_tSzMx7XUDfwyPap42dHriRCsirtWmOSlFz9hB30&security=reality&serviceName=netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet&sid=6cc942eb26a2&sni=tgju.org&spx=/&type=grpc#⚡Telegram
