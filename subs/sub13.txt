@@ -1,4 +1,3 @@
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@89.150.48.171:443?type=tcp&encryption=none&sni=pt1vless.instavpn.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20360701
 vless://8e4257a8-668c-40fc-9e53-612aec460652@de6.persianpinggame.ir:9093?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#[🏁]t.me/ConfigsHub
 vless://daa3174b-9de5-4f93-a7d7-c03fbf4c553d@154.194.0.148:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=italyc1vskdpowhebfodbspwuryrhbx6keowuehbdpznwoo78902.mrpixanos.ir&fp=chrome&type=ws&allowInsecure=0&sni=italyc1vskdpowhebfodbspwuryrhbx6keowuehbdpznwoo78902.mrpixanos.ir#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20459429
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.5.253-0322
@@ -287,3 +286,4 @@ vmess://ewogICAgImFkZCI6ICJzZW91bDAyLnpnam9rLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJo
 vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80/?type=ws&encryption=none&flow=&host=c.iamdt.dpdns.org&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20569523
 vless://452bb4ab-d704-4c36-afc5-ccdf433e9645@jdq2.rfg4s.sad21.ssa5h.carvan4.mimkiscx.ir:2095?path=/?ed=2087&security=none&encryption=none&host=beh2.salonemojallal.ir.&type=httpupgrade#@v2rays_ha
 trojan://telegram-id-privatevpns@13.51.244.148:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
+vless://40b1e510-6017-48f4-b3db-2486805a2395@64.188.67.193:444?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FguUYp-QbjkcMYcNeNxEJ_IVqd5y4NZjokAkae4IyXw&security=reality&sid=bbbf95fa&sni=sun6-22.userapi.com&type=tcp#🥐15@oneclickvpnkeys
