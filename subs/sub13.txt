@@ -1,7 +1,3 @@
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20371036
-vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@172.67.201.146:8443?encryption=none&security=tls&sni=029.eLeCtROcELLCO-cf-029.wOrkERs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiVkszbkhyU1UxMWtoNzE5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20455997
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VFdHZm5RdHprZlpaMEloZHN3dXhn@hesam.xv98.ir:37725#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️206🌐🆕️
-vless://5ed75e1e-beea-4e19-970f-605ffcb61a27@85.133.228.105:10388?security=none&encryption=none&host=speedtest.com&headerType=http&type=tcp#
 vless://cef12ad2-fb16-4ace-ab26-2a026d40a7d2@144.31.74.41:8443/?type=grpc&encryption=none&flow=&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=LB2i67ErtJPlIIDeDHlGvSip6-qPJLH9HzYju5fZ32c&sid=2916#%F0%9F%A4%9623%40oneclickvpnkeys
 vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@dgrns1.vertalist.ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@OnNetX
 vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiNGVjNjZkODEtOTU2NS00ZDhlLWFlNTgtMmJhY2ZkZTk1ZjQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
@@ -83,6 +79,7 @@ vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@172.64.152.23:443?path=/47.250.139.
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.17:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20597120
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.18:9097#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20870634
 vless://7a826f5a-9f69-4cd8-8dbc-c32e090eecfc@84.23.53.221:8443?type=tcp&security=reality&headerType=none&fp=chrome&sni=api-maps.yandex.ru&flow=xtls-rprx-vision&pbk=Ciw-HX8u2JpfTxaPoJKABi7MZZwN0HRGbgpR1MHXXxo#@V2ray_confing33
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%40v2_mod_shop%F0%9F%87%B5%F0%9F%87%B1
 vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#IR-@V2rayAlpha-5
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@172.66.128.70:80?path=%2F%3Fed&security=none&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#%E2%9A%A1%EF%B8%8F%20%40kingo_wallpaper%20%28%20Kingo%20team%20%29%20TM%C2%B3
 trojan://telegram-id-privatevpns@15.237.154.24:22222?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#🇨🇵ConfigV2RayNG
@@ -289,3 +286,4 @@ vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@193.187.132.145:587?security=realit
 vless://7e733218-d0ff-4466-8159-fac7ef8aba30@178.239.145.234:2083?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20297189
 trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20876266
 trojan://telegram-id-privatevpns@3.74.60.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+trojan://c1d83c0c7d57cead4379ba14a82df69b@157.120.36.210:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
