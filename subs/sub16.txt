@@ -1,3 +1,4 @@
+vless://c921c664-d82d-4317-b4d0-7640cc9aa760@151.101.3.8:80?allowInsecure=0&sni=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&type=ws&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&path=/
 vless://78978fb6-14b7-4ea1-9a6e-42e81fb71514@81.161.229.213:2087?type=grpc&encryption=none&sni=varzesh3.com&fp=chrome&security=reality&pbk=o4r-q0TirHVlQv7sNRNBdsATNgIizctX86fqG9MGDB0&sid=a1#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20862298
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiIxNzIuNjQuMTY2LjMzIiwicG9ydCI6MjA5NSwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwiaG9zdCI6ImlwMTIuNjAxNjcyNS54eXoiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0=
 vless://--VPNCUSTOMIZE--@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40torang_vpn%20%232
@@ -289,4 +290,3 @@ vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@172.67.182.46:443?security=tls&sni=
 vless://V2RAXX----@V2RAXX-channel.cataba.ir:2053?path=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX&security=none&encryption=none&type=ws#🇩🇪ALL¹
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?type=ws&path=/Fvy0Y7NJ7uucUDha?ed=2560&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20314737
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20784442
