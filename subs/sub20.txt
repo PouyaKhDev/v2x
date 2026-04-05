@@ -1,3 +1,7 @@
+vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZTFjYzI2YjMtZGYwYi00NzdiLWFmYjAtNTM2NTlhMjVlOTc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+vless://dca08a58-06c2-441e-b8ea-72eb898d1874@st2.pmme5.top:20443?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#channel
+vless://5eb32d76-7b18-4e01-fa09-99fc5424712a@103.215.221.219:20425?security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.18:9018#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20658273
 vless://0abfb033-6663-476e-bd85-abea6ee2d456@python.org:80?mode=auto&security=&encryption=none&extra={
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20357637
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.133:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.133-0306
@@ -260,6 +264,7 @@ vless://99d620d4-8cb4-4129-a3e3-183939766124@46.38.148.160:9092?encryption=none&
 vless://a688fe84-5388-48e3-beb5-0b94780ca0c6@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#%40EuServer
 vless://v2rayfree1-injas-biya@91.231.182.187:21341?encryption=none&security=none&type=tcp&headerType=none#v2rayfree1
 vless://573c787d-d549-4171-b05f-29984bc0266c@45.85.118.209:443?path=/@AmirGeekTech-@FNET00&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.farazteams.ir&fp=chrome&type=ws&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42934#%F0%9F%87%B0%F0%9F%87%BC%20ShatakVPN%20592894
 vmess://eyJhZGQiOiI1LjgzLjE1MC4xMDgiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiNGVjNjZkODEtOTU2NS00ZDhlLWFlNTgtMmJhY2ZkZTk1ZjQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI4NTc0LCJwcyI6IuKdjETDvHNzZWxkb3JmLUdldEFGcmVlTm9kZS5jb20iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18426#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20349115
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.192:8880?mode=gun&security=none&encryption=none&type=grpc#[93010]
