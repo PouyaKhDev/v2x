@@ -1,3 +1,7 @@
+vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.109.124:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#%F0%9F%A5%9032@oneclickvpnkeys
+vless://35820f5d-c38e-4890-bf81-d37d39816a63@noda.freedomvpn.live:443?security=reality&encryption=none&pbk=l4IDhsP2DW5xnNwtI0rqC0oCHZR7YFM-fmA5Vqayrkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=noda.freedomvpn.live&sid=4819f6671beb7c52#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuOW50dHZCY085VDQ2MEVKSXBGazRR@57.128.174.124:5223#@YamYamProxy
+vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@Magsin_Vpn
 vless://de7b6583-99d7-4376-a947-7040ccaf33a9@ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=%2FeyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%3E%3E%40DailyV2RY%3A%3AUS
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.210:38388#🇻🇳VN
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.180:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#channel
@@ -25,7 +29,6 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogImNoYXRncHQuY29tIiwgInBvcnQiOiAyMDgzLCAiaWQiOiAi
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.119.77:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.119.77-0367
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.158.171.66-0418
 vless://5c23b857-8194-4204-868b-9c70c17fbf6c@gr.easyv.ir:8081?security=none&allowInsecure=0&encryption=none&type=tcp&host=varzesh3.com&path=/&headerType=http#@sogoandfuckyourlove
-trojan://humanity@104.18.8.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20200305
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40%F0%9D%97%AB%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80_%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%20%7C%20%D8%AA%D8%B3%D8%AA%20%D8%B4%D8%AF%D9%87%20%D9%88%D8%B5%D9%84%D9%87%E2%9C%85
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.164-0426
 vless://09672d3b-4e72-4d76-aca0-94f766c1db3f@ipc2.stock-photo.ir:2053?security=tls&allowInsecure=0&encryption=none&type=ws&host=dE12136C-C7A3-4537-BA70-B97a465367A0.StoCK-PHOto.Ir.&path=/?ed=2048&sni=dE12136C-C7A3-4537-BA70-B97a465367A0.StoCK-PHOto.Ir.&fp=chrome&alpn=h2,h3,http/1.1#@v2rays_ha
@@ -286,5 +289,3 @@ vless://a66bc867-761c-436f-8177-5b510aea21af@online3.moyanri.org:6443?security=n
 vless://01e2c6be-624d-4824-9fab-68afd2db90df@ftp.notls.hetzner.com.techraseir.ir:1820?security=none&encryption=none&headerType=http&type=tcp#@FergalVpnMod
 vless://73738858-0d45-4e31-ac88-2ee8c5e17af7@151.101.241.242:80?mode=auto&path=/&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20434909
 vless://42b32d2f-42c1-4f63-a005-22ffbddcda53@172.64.152.23:443?path=%2Fxxfzrfws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=639055368852073652.defender-rvltnc.top&fp=chrome&type=ws&allowInsecure=0&sni=639055368852073652.defender-rvltnc.top#Server%2011%20Group%202
-trojan://telegram-id-privatevpns@52.47.189.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-vless://20e32d2b-2c6b-4d41-9b26-19e4e963b781@103.229.81.118:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=KxR82IdwUTfNKYalbtZyhdW8T3Qy1vl5KIwaJ4LAe04&sid=b0c7f249#@Hope_Net-join-us-on-Telegram
