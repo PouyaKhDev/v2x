@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@139.64.165.155:5003#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://7d4a519b-d270-434e-a42d-d39624577a92@nodejs.org:80?path=/?ed&security=&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#channel
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.62.243:443?path=%2F%40VPNHTTPInjectorfree&security=tls&encryption=none&host=MIumIumADrEkOsE.pAGeS.dev&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#@Hope_Net-join-us-on-Telegram
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.203:2375#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -73,6 +72,7 @@ vless://a26bbed7-a286-4840-84bc-dc102c526777@151.101.2.219:80?mode=auto&path=%2F
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?allowInsecure=0&sni=web.max#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
 vless://9a5c366e-5d5d-4fbb-85d5-985344ba5369@stella.ns.cloudflare.com:80?path=%2Fwww.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.openai.com-www.google.com-www.google.com-www.google.com-www.google.com-www.speedtest.net--www.speedtest.net--www.speedtest.net--www.speedtest.net--www.speedtest.net%3Fed%3D32517&security=&encryption=none&host=hsvajja-182662626262627272.poshakhowdy.ir.&type=ws#%F0%9F%96%A4%F0%9D%92%84%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%8D%20%F0%9F%91%89%40ConfigV2RayNG%F0%9F%96%A4
 vless://aab679f9-f437-498a-836b-c8137264666a@87.107.83.115:40552?encryption=none&security=none&type=tcp&headerType=http&host=eset.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20335422
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.35:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20578002
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@54.216.127.183:27775?security=&encryption=none&headerType=&type=tcp#Server%203%20Group%201
 vless://16fe2ff8-e88b-44bf-bf68-16c8d243ab86@sr3.naxilo.fun:2095?security=none&encryption=none&headerType=none&type=tcp#[93025]
@@ -287,5 +287,3 @@ vmess://eyJhZGQiOiI4LjYuMTEyLjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6
 vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=live.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
 vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=/hsdgsws&security=tls&alpn=http/1.1&encryption=none&host=sunseet.info&fp=chrome&type=ws&sni=sunseet.info#DS
 vless://c86fa766-355a-4748-9725-380d39e176c1@31.14.115.53:443?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#@V2ray1_Ng
-vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&type=tcp&sni=fr1.itscdn.ir#VayNora
-vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@188.114.98.0:8443?path=/@OnNetVpn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#@mehrosaboran
