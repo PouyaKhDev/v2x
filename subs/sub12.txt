@@ -1,5 +1,3 @@
-vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/#@v2rays_ha
-vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@ca2.persianhostnet.ir:3121?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@104.18.26.90:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=us.badomzamini.uk&type=httpupgrade#%40ConfigV2RayNG
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNzIuMjM0LjEzMi4yMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTZiOTljMDUtOGUwYS00ZjdlLWJmN2ItZTRiOWZlYmI5NTg5IiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAwMSIsInBzIjoiQHYycmF5bmd6ZW5kZWdpbWFtYWTwn5WK77iPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -83,6 +81,7 @@ vless://0225e1ba-569e-4b65-a2f8-92fe863c5a76@ip.hamrahto.com:2095?security=&encr
 vless://ba77276e-9939-4c6c-a73e-90e02b6faf13@2.56.125.101:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#🥐5@oneclickvpnkeys
 vmess://eyJhZGQiOiI0MC4xNjAuMjMxLjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZjg1NzM5Zi0zNTUyLTQyMmYtYjE1MS0xMGQ5YTI5YjE1YjkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQVpBUkJBWUpBQjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@Pinterest.com:80?path=%2Fcontainers%2Ffi&security=&encryption=none&host=dojman.global.ssl.fastly.net&type=ws#ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#%F0%9F%87%B2%F0%9F%87%BD%20ShatakVPN%20688791
 vless://cda044f8-f9eb-400c-9a9a-7d0d98f20e9d@gtirsljf.korosh.online:443?encryption=none&type=tcp&headerType=none&security=none#VayNora
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#%F0%9F%87%B8%F0%9F%87%A6%20ShatakVPN%20709466
 vmess://eyJhZGQiOiAiOC4yMTguNTguODkiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJuMTc2MTIxNDkwNy43NHF4di50b3AiLCAiaWQiOiAiNGMxNzM5OWYtYzkzZC00NTI3LThhY2UtNWJkYzJmMDkwMWYzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIvCfh63wn4ewIFNoYXRha1ZQTiAyNDkyOTYiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4+04oCNU2hpbmUifQ==#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20249296
@@ -289,3 +288,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:
 vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443?path=%2Foqxdqtws&security=tls&encryption=none&host=639031180460930556.altima-amsjq.info&type=ws&sni=639031180460930556.altima-amsjq.info#DS%204%20%28%40Outline_Vpn%29%20free
 ss://YWVzLTI1Ni1nY206MTRmRlByYmV6RTNIRFp6c01PcjY@68.183.235.122:8080#🇸🇬SG
 vless://ddb4b81b-3c9d-43b9-b854-372cfb5f2bd3@freeiran.lookanet.app:443?mode=auto&path=/php-index&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd-hardcore.esportplusnews.top#@V2ray1_Ng
+vless://bbdab850-9164-43f3-adf9-26f7c5458e9d@66.81.247.155:8443?path=/?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#🏴‍☠️
