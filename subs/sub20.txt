@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:5600#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vmess://eyJhZGQiOiAiOC4yMTguMTc1LjY0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiOGVlNjM5Yy1hN2FjLTQ5ZmEtYmM0OS0yNTEwZTg4NTA0M2YiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJwb3J0IjogNTE4MjMsICJwcyI6ICLwn4et8J+HsCBTaGF0YWtWUE4gOTYxNTc5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkB2bWVzc2lyYW46OkhLIn0=#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20961579
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.150.152.24:8881#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTEyOC1nY206WXZwaXNvNTk0VWgzR21CMXBzQjlSdw==@83.229.85.172:777#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20528442
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.0.221:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dabaius2.sylu.net&path=/db10240eb751d6ab#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20596440
 vless://93a9f8f5-9ea8-46af-88a2-23ee4751dad7@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
