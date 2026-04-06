@@ -1,3 +1,5 @@
+vless://613725ab-ca86-4d54-852e-a0bf45e812de@217.198.12.29:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=alisa.kosmolet.xyz&fp=chrome&security=reality&pbk=IU2t096hBC7gAQ_rY1qwYsAtgiegzYI6loivZJxpx1E&sid=28e1270764a2464b#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20572215
+vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&sni=ads.x5.ru&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇷🇺@EVAY_VPN
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.122:8118#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.217.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.102:6679#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -37,7 +39,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42936#%
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.161.63:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20354427
 vless://dceeaec8-bb17-427e-a897-345413ff0228@sky.online.class.mate.rooming.gamesiland.org:14469?type=ws&encryption=none&path=%2F&host=&security=none#
 vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.kr.f2zone.ir:47880?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@Magsin_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MzU1ODJlNTEzMjhhZjk5@163.171.206.24:28028#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20124634
 ss://YWVzLTI1Ni1nY206WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.22:38388#🇻🇳ConfigV2RayNG
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#channel
 vless://4dba0251-8173-41e8-ab0c-05daf747b6d7@188.121.118.2:2086?security=none&encryption=none&headerType=none&type=tcp#
@@ -287,6 +288,3 @@ vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80?security=none&type
 vless://24b00814-462b-46b6-b0a0-8ca72a60311a@jdq2.rfg4s.sad21.ssa5h.carvan4.mimkiscx.ir:2095?path=%2F%3Fed%3D2087&security=&encryption=none&host=beh2.salonemojallal.ir.&type=httpupgrade#Telegram:@config_proxy
 vless://8388434b-bbc8-4e00-b497-69a7f56f6e24@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.5
 vless://5d3de11f-7d09-4e35-9d11-8b42fa4f0110@base.apkfa.com:8880?encryption=none&amp%3Bsecurity=none&amp%3Btype=tcp&amp%3BheaderType=http&amp%3Bhost=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online%2Cmyket.ir%2Ctamin.ir%2Ccafebazaar.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_youtube%20%231
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@151.101.0.84:80?path=/containers/fi&security=none&encryption=none&host=dojman.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20220038
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.183-0299
