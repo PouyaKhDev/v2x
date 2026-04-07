@@ -294,4 +294,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.113:8888#%F0%9F%87%BA%F0%9F%8
 vless://14c2c571-5939-4ed8-81b4-465326c9f436@77.83.245.62:30658?security=reality&encryption=none&pbk=ZV-7O_NeLjiSp4mSKay2QNpRRHaYHOVJwediaAFX2ls&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=1236b31925bcfbae#@OnNetX
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@80.253.251.64:443?security=tls&encryption=none&insecure=1&type=tcp&allowInsecure=1&sni=decdn1.suio.me#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20779196
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@104.18.35.15:443?security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be&path=/&host=_acme-challenge.2go.cloudns.be#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20846470
-vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&allowInsecure=0&sni=fast.spacenetpro.xyz#channel
