@@ -1,7 +1,3 @@
-vless://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=2cfb5a0ae8ab0cb0#channel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#%3E%3E%40OutlineVpnOfficial%3A%3AKZ
-vless://TELEGRAM-CONFiGLiNE-131@speedtest.net:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=1024&security=none&encryption=none&host=barayekhoda.global.ssl.fastly.net&type=ws#🇺🇸AZARBAYJAB1
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=/?ed=2560&Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.rocks&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.rocks#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20788604
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.42:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20523324
 vless://3e2a40df-fc16-4ffb-9b7b-d5843aa608e3@188.114.96.221:80?path=/Proxy-MTM?ed=2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#@Hope_Net-join-us-on-Telegram
 vless://f52124d2-47d2-473b-b9ba-50772a829370@94.131.110.122:443?path=/rlsusiws&security=tls&encryption=none&type=ws&sni=www.vk.com#
@@ -113,6 +109,7 @@ vless://59ec2f1f-e7b1-41c1-b80f-36d1ec76425c@iamac.iransalar.top:18164?encryptio
 vless://ad769f8d-9e20-45b7-9a8a-de11641b6590@68.183.205.118:443?path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20615248
 vless://b89696d2-68ec-4812-bd95-a8f017ad8b4b@NEW.CDN.TORPROSPEED.IR:2087?path=/&security=tls&encryption=none&insecure=0&host=kxfuftoukfxfuk.xuiprospeed.ir&fp=chrome&type=ws&allowInsecure=0&sni=kxfuftoukfxfuk.xuiprospeed.ir#@CooOw
 vless://8a4befcf-f30e-4114-a227-b82fe5034bff@www.speedtest.net:8080?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=19.v.V.v-_-_-V2rAy-_-_-v.v.v.v.speedtest.net.www.zula.ir.check-host.net.Vipnufilter.Online.&type=ws#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@104.21.13.183:443#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20718572
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46575#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20171655
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.176:38388#🇻🇳VN
 vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.14.19:80?path=/?ed=2560&security=none&encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&fp=randomized&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20277686
@@ -293,3 +290,8 @@ vless://200bf63f-7273-4a49-97ee-222cf2832cbb@87.107.9.106:6074?encryption=none&s
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20446347
 vless://@datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#⚡️Telegram
 vless://77c492e6-7bff-4ce9-b76d-6e55686a577b@208.103.161.9:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=finland2.aattaash.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20445506
+vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@63.141.128.158:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#channel
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5003#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vmess://eyJhZGQiOiJ0dW4ubXlleHRyYW9yZGluYXJ5LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ5YXNkbC5jb20iLCJpZCI6IjUzYmU4NzQ2LThhY2QtNDFkNy04NGExLTdmNjU4MWYwM2ZkMSIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIzOTExIiwicHMiOiLwn4eu8J+HtyB8IEBEYWlseVYyUHJveHkg8J+RiCDaqdin2YbYp9mEINiq2YTar9ix2KfZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.209.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
+trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@36.231.106.79:2222?allowInsecure=0#@Hope_Net-join-us-on-Telegram
