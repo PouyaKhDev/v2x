@@ -1,3 +1,13 @@
+vless://e100a774-bd63-4d61-8a43-6db1acfa89fb@91.98.80.2:8880?type=tcp&encryption=none&security=none#@V2rayNG3
+vless://c249ca6f-1bde-479b-af96-da0e948a3800@104.17.147.22:443?path=%2Fadmin&security=tls&encryption=none&insecure=0&host=zitel.digikala-aparat-zula.com&type=ws&allowInsecure=0&sni=zitel.digikala-aparat-zula.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20183734
+vless://22fa731e-8707-4507-8641-8c1ff424fa45@13.39.104.36:4001?type=tcp&encryption=none&sni=wikipedia.org&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20753500
+vless://faefbd75-9a1c-4bbf-9b90-816966ecf554@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=httpupgrade#telegram
+vless://admib@8.218.230.193:80?security=none&seed=@rootface
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@94.103.1.230:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#%3E%3E%40outline_vpn%3A%3ANL
+trojan://humanity@208.103.161.9:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20795339
+vless://8cecaad1-fe90-4fa6-a6d6-e93c8a19380d@188.114.98.0:2053?path=%2Flatest%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=hz.badomzamini.uk&fp=chrome&type=ws&allowInsecure=0&sni=hz.badomzamini.uk#ConfigV2RayNG
+vless://5af3a353-c53f-4800-98dc-d44609ad11f2@185.146.173.200:8080?security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080#@Hope_Net-join-us-on-Telegram
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.82.252.109:990#t.me/OutlineVpnOfficial
 vless://5621e674-5d26-4389-bf28-bf7cc29cfad6@87.236.38.209:640?security=none&encryption=none&headerType=none&type=tcp#‌Telegram-𝗝𝗼𝗶𝗻
 ss://YWVzLTI1Ni1nY206ODU2MzQxMWYtZjA0Yy00YTM4LTg3NTMtMTFjMzRlNTk5MzY1@45.89.53.115:8443?note=@freeOnlineVPN#🇺🇸
@@ -290,13 +300,3 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRk
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@84.201.140.155:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&fp=chrome&security=reality&pbk=a3j3TH-VYPCGR_ecpyzkojGcszOGWdu0R9w0b1GAFU4&sid=a20d3ed244c76426#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20386231
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@uscdn2.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=uscdn2.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://955bdf5a-0f0b-4f56-ac70-c366b9788aad@64.188.115.181:26968?encryption=none&security=reality&sni=stackoverflow.com&fp=firefox&pbk=EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8&sid=04&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20298462
-vless://79b03434-d2c6-4ab5-9474-acf450eb7ab9@185.126.6.131:3446?security=none&encryption=none&headerType=http&type=tcp#IR-%40YamYamProxy-11
-vless://2b443a2c-3a0e-4867-ae1f-d0798f9a1b51@85.9.122.100:11038?security=none&encryption=none&headerType=none&type=tcp#
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@141.193.213.20:2053?path=%2Fdanfeng&security=tls&encryption=none&insecure=0&host=snippet.danfeng.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=snippet.danfeng.de5.net#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20897803
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.18:9053#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20227126
-vless://41127caf-a83c-44ea-b876-9d5392702544@meli46.hydro-soft.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=M4d209.nightwolf.shop#⚡Telegram
-vless://0fb80493-c5e6-4ce1-ad46-b715521bc8d3@172.64.152.23:443?path=/213.35.100.31=47112&security=tls&encryption=none&host=afsbconfessout.qzz.io&type=ws&sni=afsbconfessout.qzz.io#🔴
-vless://ab24332f-18a9-4394-90fd-3319787b4e12@k1.site.asan-ps.ir:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=Orghosin1.com&type=xhttp#ConfigV2RayNG
-vless://@SEGVPN@gcre.segstar.info:10100?type=tcp&security=reality&pbk=2zN5MhusgST2q3NBD1gglc6xTaoTPP9Tmjb9k374QCw&fp=chrome&sni=refersion.com&spx=/&flow=xtls-rprx-vision#🇩🇪SEG3
-vless://240081a0-80f0-4ef8-b834-52d8df75bad3@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20986649
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#%F0%9F%87%B7%F0%9F%87%B4%20ShatakVPN%20686076
