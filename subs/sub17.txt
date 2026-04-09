@@ -1,6 +1,3 @@
-vless://09cdd7bd-0a0c-44c9-9854-b657b335e0bb@104.21.55.47:2053?security=tls&encryption=none&insecure=1&host=api18.diiginet.ir&fp=chrome&type=ws&allowInsecure=1&sni=api18.diiginet.ir#@v2rays_ha
-vmess://eyJhZGQiOiJ4bi0tdWttLWhwN2tybXF1ZDExaWViZjMwbDZ1ZmEzOWR3bi5HQW1lc1dJTmVycy5DT00iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiVFQSU4NyVBMiVFQSU4OSU5MCVFQSU4OCU5RiVFQSU4MyU5NSVFQSU4NSVBMyVFQSU4OSVBRHUlRUElODElQUUlRUElODAlQTAlRUElODglOUYlRUElODMlOTVrJUVBJTg1JUEzJUVBJTg1JTlFbS5HQW1lc1dJTmVycy5DT00uIiwiaWQiOiI0ZDRlZGVhMi01NjAyLTRkMTUtOThmNC1jMGY4ODM5YTYzMTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDA3IiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vless://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?&security=tls&fp=chrome&alpn=http/1.1&type=ws&headerType=none&host=serveruwofl.samanidempire.org&path=%2F1ab3537d#%3E%3E%40v2nodes%3A%3ADE
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?security=tls&encryption=none&type=ws&sni=vless.muzheng.top#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20148564
 vless://a3d67d5a-acc7-4129-8fcf-f2ffcd2522a6@178.239.147.38:59709?security=none&type=tcp&host=fast.com&path=/&headerType=http#@Hope_Net-join-us-on-Telegram
 vless://488bf4fc-ae7d-48da-a1e7-31429996e0b5@its.zdshop.ir:80?mode=packet-up&path=/category/music?ed=8880&security=none&encryption=none&extra={
@@ -139,6 +136,7 @@ vless://59ec2f1f-e7b1-41c1-b80f-36d1ec76425c@iamac.iransalar.top:18164?encryptio
 vless://ad769f8d-9e20-45b7-9a8a-de11641b6590@68.183.205.118:443?path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20615248
 vless://b89696d2-68ec-4812-bd95-a8f017ad8b4b@NEW.CDN.TORPROSPEED.IR:2087?path=/&security=tls&encryption=none&insecure=0&host=kxfuftoukfxfuk.xuiprospeed.ir&fp=chrome&type=ws&allowInsecure=0&sni=kxfuftoukfxfuk.xuiprospeed.ir#@CooOw
 vless://8a4befcf-f30e-4114-a227-b82fe5034bff@www.speedtest.net:8080?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=19.v.V.v-_-_-V2rAy-_-_-v.v.v.v.speedtest.net.www.zula.ir.check-host.net.Vipnufilter.Online.&type=ws#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@104.21.13.183:443#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20718572
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46575#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20171655
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.176:38388#🇻🇳VN
 vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.14.19:80?path=/?ed=2560&security=none&encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&fp=randomized&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20277686
@@ -300,3 +298,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=/&security=t
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.35:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20758707
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@62.60.233.41:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=my.oversecure.pro&fp=chrome&security=reality&pbk=L9LQ_8Ymo1o7QRPvWXsd4VY_i_OZ-0ZIw_mU16zaPEY&sid=a20d3ed244c76426#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20319437
 vless://68c440f2-f982-459b-b4be-adbf56dbc2c8@ipbaz.ping-box.com:443?path=/&security=tls&encryption=none&insecure=0&host=hm3.mutee.com.tr&fp=chrome&type=ws&allowInsecure=0&sni=hm3.mutee.com.tr#WiFi-@V2rayAlpha--6
+vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?security=reality&encryption=none&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d1#🇵🇱🖤𝒄𝒉𝒂𝒏𝒏𝒆𝒍
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#t.me/OutlineVpnOfficial
