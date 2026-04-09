@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.156:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20290067
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20979352
+vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@nl1.rsvps.tech:443?security=reality&encryption=none&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#TE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.188-0275
+vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&amp%3Btype=tcp&amp%3Bpath=/&amp%3Bsecurity=none&amp%3Bhost=www.speedtest.net&amp%3BheaderType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40komail315%20%231
 vless://1b244541-355a-4f88-b800-6bef8b1dbd7a@s14.leaders711.top:5050?type=ws&amp%3Bencryption=none&amp%3Bsecurity=none&amp%3Bhost=s14.leaders711.top&amp%3Bpath=/https#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40golf_vpn%20%232
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#%F0%9F%87%AD%F0%9F%87%BA%20ShatakVPN%20677771
 vless://abcb511c-d479-4433-b9a4-436e5b4a316c@62.192.153.183:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max4.skystreamgame.com&fp=chrome&security=reality&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20600534
@@ -295,8 +300,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaUxSN2FBMGs1akp4djB1aWtRbFRV@78.129.140.11:
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiIxNzIuNjQuMTY2LjgiLCJwb3J0IjoyMDgyLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJob3N0IjoiaXAxNi42OTI5MTk4Lnh5eiIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:11696#🇲🇾
 vless://826943c2-54fe-4fcf-ba7a-9497d7b88979@s8.ramimax.com:26501?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#💙
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.70:9011#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20257259
-vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@146.75.77.194:443?encryption=none&security=tls&sni=dojman.global.ssl.fastly.net&alpn=http/1.1&type=ws&host=dojman.global.ssl.fastly.net&path=/containers/fi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20588229
-vmess://eyJhZGQiOiI1LjgzLjE1MC4xMDgiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZmE4Zjg5MTEtMmU5Yi00OTRlLTlhOGQtZjgwMjM5ZWUyMjE0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI4NTc0LCJwcyI6IuKdjETDvHNzZWxkb3JmLUdldEFGcmVlTm9kZS5jb20iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
-vless://e2a4327f-a741-43db-b346-28e46d3da9bb@osmo.usertak.com:2053?type=tcp&path=/&host=fast.com&headerType=http&security=none#VayNora
-vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.75.31:8090?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pol.overload.ovh&fp=chrome&security=reality&pbk=NUdsKU2YwT4H__ap8TqR4IjAxtVVQ5lcha7nY28wpC0&sid=b92f4cd882f76e2b#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20146745
