@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.26:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20828742
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?path=/TELEGRAM-PROXY_MTM?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48213#%F0%9F%87%AF%F0%9F%87%B4%20ShatakVPN%20474322
 vless://0e7579f2-d136-57cd-b2de-c41e49b00c75@151.101.2.133:80?security=none&type=ws&host=mortezatv89.ir&path=%2Fvless#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -293,3 +292,4 @@ vless://30dd5974-780c-4743-b88a-12a4450bd2a3@msk.cdn.stun.su:443?encryption=none
 ss://YWVzLTI1Ni1nY206WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.246:38388#🇻🇳VN
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&headerType=none#%20
 trojan://c1d83c0c7d57cead4379ba14a82df69b@116.80.76.130:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@104.26.6.35:80?path=%2F&security=&encryption=none&host=de.tawana.cf.panbehpanel.ir&type=ws#telegram%20%E2%98%82%EF%B8%8F%20dailyv2ry
