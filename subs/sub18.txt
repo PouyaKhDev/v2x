@@ -1,9 +1,9 @@
-vless://200bf63f-7273-4a49-97ee-222cf2832cbb@87.107.9.106:6074?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20622444
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20446347
 vless://@datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#⚡️Telegram
 vless://77c492e6-7bff-4ce9-b76d-6e55686a577b@208.103.161.9:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=finland2.aattaash.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20445506
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@63.141.128.158:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#channel
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5003#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20530896
 vmess://eyJhZGQiOiJ0dW4ubXlleHRyYW9yZGluYXJ5LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ5YXNkbC5jb20iLCJpZCI6IjUzYmU4NzQ2LThhY2QtNDFkNy04NGExLTdmNjU4MWYwM2ZkMSIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIzOTExIiwicHMiOiLwn4eu8J+HtyB8IEBEYWlseVYyUHJveHkg8J+RiCDaqdin2YbYp9mEINiq2YTar9ix2KfZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.209.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@36.231.106.79:2222?allowInsecure=0#@Hope_Net-join-us-on-Telegram
@@ -177,7 +177,6 @@ vless://01c4caac-6f75-49d2-be5f-8bce33441057@151.101.67.8:80?mode=auto&path=/&se
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.70:9037#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20377783
 vless://3b1d4dc3-8872-4c8b-aa14-2fabf06a13fc@104.19.173.68:8080?security=&type=ws&path=/&host=dildodod.decoreland.ir.&encryption=none#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiMzc4NmU2N2EtNDFlYi00YjkyLWIzMWUtNDE3ZTg5NDkzYjkzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
-trojan://humanity@104.18.0.55:443?type=ws&path=/assignment&security=tls&sni=www.gossipglove.com&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20353256
 vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv2.tsteamh.top:60002?security=none&type=tcp&headerType=http&path=/&host=cafeariel.ir#⚡️Telegram
 vless://2e11e5a2-38eb-4842-9ad7-ed57df1eb676@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:2095?path=%2F%3Fed%3D2087&security=&encryption=none&host=beh1.salonemojallal.ir.&type=httpupgrade#%F0%9F%92%AB%20%40ConfigV2RayNG%20%28Vless%29
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20112007
@@ -293,3 +292,4 @@ vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stre
 vless://1b244541-355a-4f88-b800-6bef8b1dbd7a@s14.leaders711.top:5050?type=ws&amp%3Bencryption=none&amp%3Bsecurity=none&amp%3Bhost=s14.leaders711.top&amp%3Bpath=/https#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40golf_vpn%20%232
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#%F0%9F%87%AD%F0%9F%87%BA%20ShatakVPN%20677771
 vless://abcb511c-d479-4433-b9a4-436e5b4a316c@62.192.153.183:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max4.skystreamgame.com&fp=chrome&security=reality&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20600534
+vless://449d255f-aaf8-4139-9127-7c49c13efb56@185.60.59.107:8008?security=none&type=tcp&headerType=http&path=%2F&host=myket.ir#%F0%9F%87%AB%F0%9F%87%AE%20%F0%9D%90%85%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%20%7C%20%F0%9D%90%93%F0%9D%90%8D%20
