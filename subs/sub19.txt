@@ -1,4 +1,3 @@
-vless://e1631a97-057b-4940-9a76-83bd31b64a20@91.99.72.144:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#@v2rays_ha
 vless://a48e117c-e0e2-43e5-bf92-8a1f8c560c78@217.195.200.224:15528?security=reality&encryption=none&pbk=p8HqeoS_56Y8_M1fJgO8WOnULqUW7tva4sxOVsqH4C4&host=telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=0014de#%F0%9F%87%A6%F0%9F%87%AA%20ShatakVPN%20107643
 vless://9a416771-e4e3-4c58-9bbe-c0a0d8727911@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
@@ -293,3 +292,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/l
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:11696#🇲🇾
 vless://826943c2-54fe-4fcf-ba7a-9497d7b88979@s8.ramimax.com:26501?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#💙
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.70:9011#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20257259
+vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@146.75.77.194:443?encryption=none&security=tls&sni=dojman.global.ssl.fastly.net&alpn=http/1.1&type=ws&host=dojman.global.ssl.fastly.net&path=/containers/fi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20588229
