@@ -1,3 +1,7 @@
+vless://35820f5d-c38e-4890-bf81-d37d39816a63@noda.freedomvpn.live:443?security=reality&encryption=none&pbk=l4IDhsP2DW5xnNwtI0rqC0oCHZR7YFM-fmA5Vqayrkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=noda.freedomvpn.live&sid=4819f6671beb7c52#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuOW50dHZCY085VDQ2MEVKSXBGazRR@57.128.174.124:5223#@YamYamProxy
+vless://de7b6583-99d7-4376-a947-7040ccaf33a9@ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=%2FeyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%3E%3E%40DailyV2RY%3A%3AUS
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.210:38388#🇻🇳VN
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.180:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#channel
 vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@de2.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#%40EuServer
 vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.105.235:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#FQ%206%20Tel%3A%40Outline_Vpn
@@ -146,6 +150,7 @@ vless://11c66cd1-fd59-409d-8898-a303ec94d1d0@sr100.cloud-files-uploader.com:2082
 vless://79df85dd-cb40-4b32-828e-f38d918d85e3@www.systemgamingirani.ir:2053?path=/?ed=2048&security=tls&encryption=none&host=retrieve-whois-data.wizardxray.net&fp=chrome&type=ws&sni=retrieve-whois-data.wizardxray.net#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20704300
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.14.60:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20674317
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
 vmess://eyJhZGQiOiIxOTMuMTExLjIzNi4xODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNhcnphbWluZG93bmxvYWQuY29tIiwiaWQiOiJkMjNjYjAzNS02MzExLTk3OTYtMzFhYi04MGJlN2QwY2JhMzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU2ODEyIiwicHMiOiLwn4eu8J+HtyB8IEBEYWlseVYyUHJveHkg8J+RiCDaqdin2YbYp9mEINiq2YTar9ix2KfZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 trojan://telegram-id-directvpn@63.177.190.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTExVakw1ZlZEOXotVnJRMjFieFVUckZoVFZNUmFUTQ@turkiye.vsemdostup.ru:8584#@V2rayBaaz
@@ -288,9 +293,3 @@ vless://6beffba5-a483-4226-a76c-a8d25771d1fe@190.93.244.3:2053/?type=ws&encrypti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20361172
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?allowInsecure=1&path=%2Ff2fc2a1f&type=ws#%F0%9F%A5%9052@oneclickvpnkeys
 vless://a66bc867-761c-436f-8177-5b510aea21af@online3.moyanri.org:6443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#📍Telegram
-vless://01e2c6be-624d-4824-9fab-68afd2db90df@ftp.notls.hetzner.com.techraseir.ir:1820?security=none&encryption=none&headerType=http&type=tcp#@FergalVpnMod
-vless://73738858-0d45-4e31-ac88-2ee8c5e17af7@151.101.241.242:80?mode=auto&path=/&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AE%F0%9F%87%B9%20ShatakVPN%20434909
-vless://42b32d2f-42c1-4f63-a005-22ffbddcda53@172.64.152.23:443?path=%2Fxxfzrfws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=639055368852073652.defender-rvltnc.top&fp=chrome&type=ws&allowInsecure=0&sni=639055368852073652.defender-rvltnc.top#Server%2011%20Group%202
-trojan://telegram-id-privatevpns@52.47.189.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-vless://20e32d2b-2c6b-4d41-9b26-19e4e963b781@103.229.81.118:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=KxR82IdwUTfNKYalbtZyhdW8T3Qy1vl5KIwaJ4LAe04&sid=b0c7f249#@Hope_Net-join-us-on-Telegram
-vless://f4e52226-7177-48be-be51-7e6091443fb9@104.21.94.168:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net&path=%2F@XvProxy----
