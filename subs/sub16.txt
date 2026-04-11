@@ -1,3 +1,4 @@
+vless://rootface-TELEGRAM@[0000:0000:0000:0000:0000:ffff:2fee:e222]:2089?security=none&seed=@rootface
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20788034
 vless://48490509-9672-4ddb-b44f-bbfd7560d614@89.149.242.24:1990?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pmeli.appleidcenteral.ir#@V2rayng_Fast
 vless://945bc0c8-4e27-4ae1-8fbf-13a60dd2550d@104.18.32.47:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=a.uaesweden.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=a.uaesweden.dpdns.org#channel
@@ -292,5 +293,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 vless://TELEGRAM-CONFiGLiNE-131@speedtest.net:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=1024&security=none&encryption=none&host=barayekhoda.global.ssl.fastly.net&type=ws#🇺🇸AZARBAYJAB1
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=/?ed=2560&Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.rocks&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.rocks#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20788604
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.42:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20523324
-vless://3e2a40df-fc16-4ffb-9b7b-d5843aa608e3@188.114.96.221:80?path=/Proxy-MTM?ed=2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#@Hope_Net-join-us-on-Telegram
-vless://f52124d2-47d2-473b-b9ba-50772a829370@94.131.110.122:443?path=/rlsusiws&security=tls&encryption=none&type=ws&sni=www.vk.com#
