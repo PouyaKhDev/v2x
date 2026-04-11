@@ -293,3 +293,4 @@ vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@shield.zdshop.ir:2053?security=tls&
 vless://5eb9b54d-3c4e-4588-97f7-e53fe3e92c90@172.64.152.23:80?type=ws&security=none&host=GLOrioUs-aRriVALHCRtzt96gb.sPORtlANd.cOMPAnY.&path=/?ed&note=@freeOnlineVPN#🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43663#%F0%9F%87%B0%F0%9F%87%BF%20ShatakVPN%20500333
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.27.214:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram
+vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@104.18.26.90:2095?path=/?ed=2095&security=&encryption=none&host=us.badomzamini.uk&type=httpupgrade#ConfigV2RayNG
