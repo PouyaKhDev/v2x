@@ -1,3 +1,14 @@
+vmess://eyJhZGQiOiI1LjgzLjE1MC4xMDgiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZmE4Zjg5MTEtMmU5Yi00OTRlLTlhOGQtZjgwMjM5ZWUyMjE0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI4NTc0LCJwcyI6IuKdjETDvHNzZWxkb3JmLUdldEFGcmVlTm9kZS5jb20iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+vless://e2a4327f-a741-43db-b346-28e46d3da9bb@osmo.usertak.com:2053?type=tcp&path=/&host=fast.com&headerType=http&security=none#VayNora
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.75.31:8090?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pol.overload.ovh&fp=chrome&security=reality&pbk=NUdsKU2YwT4H__ap8TqR4IjAxtVVQ5lcha7nY28wpC0&sid=b92f4cd882f76e2b#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20146745
+vless://e0fc601e-e0c6-4c8c-92d6-6f5d1cde5a09@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
+vless://e6859af3-9286-4799-9b51-972029081581@81.12.34.197:2020?security=none&encryption=none&headerType=none&type=tcp#🔴
+vless://1cd99383-a977-4959-acb7-4be6d4ceeda3@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
+vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZTFjYzI2YjMtZGYwYi00NzdiLWFmYjAtNTM2NTlhMjVlOTc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+vless://dca08a58-06c2-441e-b8ea-72eb898d1874@st2.pmme5.top:20443?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#channel
+vless://5eb32d76-7b18-4e01-fa09-99fc5424712a@103.215.221.219:20425?security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.18:9018#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20658273
+vless://0abfb033-6663-476e-bd85-abea6ee2d456@python.org:80?mode=auto&security=&encryption=none&extra={
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20357637
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.133:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.133-0306
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.66:443?security=tls&sni=hkh.ylks.link&type=ws&path=/blue#@Hope_Net-join-us-on-Telegram
