@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#%3E%3E%40OutlineVpnOfficial%3A%3AMY
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?type=ws&encryption=none&host=telewebion.com&path=/39427/Nextlife#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20941699
 vless://b56472a0-a042-4d68-872b-b7b4388fd82f@ipbaz.ping-box.com:8443?path=%2FTelegram%40V2rayAlpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kc8z2qnbff17ve5nyn53zqyyobsebcmvkyaklw4kdqw6bntvmfrxqx6j00zo.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=kc8z2qnbff17ve5nyn53zqyyobsebcmvkyaklw4kdqw6bntvmfrxqx6j00zo.zjde5.de5.net#%F0%9F%87%AB%F0%9F%87%B7%20%40FreakConfig
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@pinterest.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=dojman.global.ssl.fastly.net&type=ws#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
@@ -293,3 +292,4 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.36.46.221:443?security=reality&en
 trojan://712597a0-0156-11f1-8f11-1239d0255272@188.114.97.218:443?path=%2Fhowdy&security=tls&insecure=0&host=usa.test3.net&type=ws&allowInsecure=0&sni=usa.test3.net#
 vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@94.183.162.68:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@v2rayconfinge
 vless://76e2a322-1c23-4c91-b2e1-40944d23fc48@iran87.nootkasound7.com:556?security=none&encryption=none&headerType=http&type=tcp#TG
+vmess://eyJhZGQiOiI1LjgzLjE1MC4xMDgiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZTNjYjY4NWUtNzg0MC00NWNiLTlkNjQtYjIwMjhkOWI2MzVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI4NTc0LCJwcyI6IuKdjETDvHNzZWxkb3JmLUdldEFGcmVlTm9kZS5jb20iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
