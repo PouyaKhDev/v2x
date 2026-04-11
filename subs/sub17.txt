@@ -1,4 +1,3 @@
-vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@176.125.241.123:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20323010
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@51.250.39.121:7443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20814381
 trojan://T9BpZIVMNv@172.66.47.45:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20632712
 vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.14.19:2095?path=%2F&security=&encryption=none&host=0107.cxypogon.workers.dev&type=ws#%3E%3E%40configV2rayNG%3A%3AUS
@@ -293,3 +292,4 @@ vless://62857607-edf1-4743-be75-e4f7660f94dc@nv140.iranman.shop:8022?security=no
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.41:8119#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://36f865d3-979b-4c7e-a117-2ec48092a69d@de.boxypn.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TjxmFHJN-olJvkXLicHGzNIMxJyucaA_ht3w3J-YcHM&security=reality&sni=de.boxypn.com&type=tcp#%F0%9F%A5%9065@oneclickvpnkeys
 vless://ba485930-ba61-4873-b510-2391797646a7@81.12.57.13:443?encryption=none&type=ws&host=@AKLISvpn@AklisVpn@AKLISvpn@AKLISvpn@AklisVpn@AklisVpn@AKLISvpn@AKLISvpn@AklisVpn@AklisVpn@AKLISvpn@AKLISvpn@AklisVpn@AklisVpn@AKLISvpn@AKLISvpn@AklisVpn&path=/#AklisVpn🇪🇺♻️🌼
+vless://2bd6f1bd-378e-40ad-8981-229800f1340e@173.245.59.217:443?path=/ljrnxaws&security=tls&encryption=none&type=ws&sni=638990351320529492.prius-amshz.info#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20208894
