@@ -1,3 +1,6 @@
+vless://5d923b9b-58ad-44b3-a6d6-e597248cae7c@108.162.193.91:443?path=/sfoumxws&security=tls&encryption=none&insecure=1&host=639025539645154202.accord-amsjl.info&type=ws&allowInsecure=1&sni=639025539645154202.accord-amsjl.info#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20604892
+vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@45.83.140.9:8443?security=reality&encryption=none&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=cefa7ca418bd0dcb#⚡︎
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.131-0293
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.134:38388#t.me/entryNET/config=1856144995913585
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.74:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20487679
 vless://266b09b3-aad1-445b-8150-904714ad0cdf@104.21.55.47:2053?security=tls&encryption=none&insecure=0&host=image-photo-ger.bestasli.ir&type=ws&allowInsecure=0&sni=image-photo-ger.bestasli.ir#%40V2RAY_VMESS_free%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
@@ -290,7 +293,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#%
 vless://0b0c4294-1781-4322-9041-3b3f3e42bd80@151.101.1.55:80?path=/download&encryption=none&host=miltering.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20871539
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.39:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20656518
 vless://56d1d355-92c9-4a9c-91e4-327d29d9a82f@95.85.232.41:443?security=reality&encryption=none&pbk=RTiq5daK_aG5LQSByzhQevcZVfT18MvPpO1-5w3lkVw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ge.rakslinevpn.su&sid=185b5686fe5b13ce#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20870543
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.101:5601#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.33:2375#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@217.30.10.18:9056#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20228893
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.113:8888#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
