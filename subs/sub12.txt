@@ -1,6 +1,3 @@
-vless://25a4ecc0-18e0-456c-a303-8998fd14d933@reza1365-12172.isamkla.online:17619?encryption=none&security=tls&sni=idremx.isamkla.online&insecure=1&allowInsecure=1&type=tcp&headerType=none#telegram%20%F0%9F%8D%8A%20dailyv2ry
-vless://52628e38-9ded-4a21-b0b8-dd4adcae6717@66.FASTSPEEDS.IR:443?path=/wss8000?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bio.xuispeedms.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=bio.xuispeedms.ir#ConfigV2RayNG
-vless://917154b1-1059-4431-b9f0-3acb7545b495@www.parsvds.ir:8080?path=SHHPROXY%3Fed%3D8080&security=none&encryption=none&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&type=ws#[93009]
 vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=/&security=&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp&note=@freeOnlineVPN#@v2rays_ha
 vless://9d95922a-c119-48bb-93eb-98ba53316a4d@ftd.prodatabase.ir:2094?type=tcp&amp%3Bencryption=none&amp%3Bsecurity=none#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.199.139:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
@@ -308,3 +305,6 @@ vless://666250e3-362e-440a-b9e3-2b7794c02af8@185.92.181.145:443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20649839
 trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#%E6%9C%AA%E7%9F%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.180-0303
+vless://a26bbed7-a286-4840-84bc-dc102c526777@python.org:80?mode=auto&path=%2Fcategory%2Fmusic&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#%40ed
+vless://3bee2f1a-318b-4da6-a097-f6f2cb75c760@ip2.neoservers.ir:8443?security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=zRIsysUgfbQuJhTKHNgms4L0o9ZzzSYmKw1zKgPP.ViPClUbIrAn.Ir.&fp=chrome&type=ws&allowInsecure=0&sni=zRIsysUgfbQuJhTKHNgms4L0o9ZzzSYmKw1zKgPP.ViPClUbIrAn.Ir.#[🏁]t.me/ConfigsHub
+vless://af78695a-b8b8-4f1f-a706-8b6493980378@nl.giftiranstore.com:8448?security=none&encryption=none&host=virgool.io&headerType=http&type=tcp#@meliproxyy
