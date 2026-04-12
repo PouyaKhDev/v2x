@@ -1,6 +1,3 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiJpY29vay50dyIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAxNi42OTI5MTk4Lnh5eiIsInRscyI6IiJ9
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@188.114.98.0:443?path=/%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=l.ayovo.netlib.re&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=l.ayovo.netlib.re#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
-vless://4d9e1c30-481d-4cb7-9e94-1a24394de7f7@89.47.197.140:443?security=tls&encryption=none&insecure=1&host=uptvs.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=profile-660901.torplay.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20329413
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.228:443?security=tls&sni=kkh.ylks.link&type=ws&path=/#@Hope_Net-join-us-on-Telegram
 vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@45.83.140.34:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&sid=fb1a8818b2ec7f2e&type=tcp&headerType=none#%20
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@nl02-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com&type=tcp#
@@ -30,6 +27,7 @@ ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.18:9064#%F0%9F%87%B5%F0%
 vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@dlc-ger2.persianpinggame.ir:443?security=reality&encryption=none&pbk=FRhlZqNN8KVTgQ-yS-7WTqNjSi9Mhy-ItbmSqcnn5EM&headerType=none&fp=random&type=tcp&sni=yahoo.com&sid=274e8f5c1c9feb3f#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 vless://22e7f0d3-8d3b-40c7-a1c5-8a912f6a16b3@188.114.96.3:443?path=%2Fmemo&security=tls&encryption=none&insecure=0&host=cdn.55994421.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn.55994421.xyz#%3E%3E%40configV2rayNG%3A%3AXX
 vless://b4bedcde-ff1e-4a80-b799-ff4bc712d6a4@104.18.15.19:8443?encryption=none&security=tls&sni=vaogtgnw6j9cx0yx5am7777t0lff1x21ovbyarobmu.zjde5.de5.net&type=ws&host=vaogtgnw6j9cx0yx5am7777t0lff1x21ovbyarobmu.zjde5.de5.net&path=/?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20946977
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.106.228.247:990#%F0%9F%87%AF%F0%9F%87%B5JP-103.106.228.247-0425
 trojan://T9BpZIVMNv@v3.dabache.top:8443?sni=sweden.vmaxpanel.com#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD2
 vless://e924b553-2abe-420f-bd3c-0fdeac792a35@cdnjs.com:443?path=%2Ftnkyjyws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=639057258093873163.corolla-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=639057258093873163.corolla-perma.info#[
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@45.141.148.251:2083?mode=gun&security=reality&encryption=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&type=grpc&serviceName=UpdateService&sni=apple.com&sid=6da16b1335651b38#Ee%204%20join%20%40Outline_Vpn
@@ -42,6 +40,7 @@ vless://e100a774-bd63-4d61-8a43-6db1acfa89fb@91.98.80.2:8880?type=tcp&encryption
 vless://c249ca6f-1bde-479b-af96-da0e948a3800@104.17.147.22:443?path=%2Fadmin&security=tls&encryption=none&insecure=0&host=zitel.digikala-aparat-zula.com&type=ws&allowInsecure=0&sni=zitel.digikala-aparat-zula.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20183734
 vless://22fa731e-8707-4507-8641-8c1ff424fa45@13.39.104.36:4001?type=tcp&encryption=none&sni=wikipedia.org&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20753500
 vless://faefbd75-9a1c-4bbf-9b90-816966ecf554@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=httpupgrade#telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#%F0%9F%87%B2%F0%9F%87%A6%20ShatakVPN%20819135
 vless://admib@8.218.230.193:80?security=none&seed=@rootface
 vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@94.103.1.230:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#%3E%3E%40outline_vpn%3A%3ANL
 trojan://humanity@208.103.161.9:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20795339
@@ -308,3 +307,4 @@ vless://d8efe321-d43c-4245-acc4-daf6d7e4489c@104.17.147.22:2087?security=tls&sni
 vless://f3f6f19f-c68a-462c-a534-9b388663fffa@31.13.208.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&security=reality&sid=3396f304f579d51f&sni=fl.mcqueenconnection.ru&type=tcp#🥐21@oneclickvpnkeys
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@ger2.panbehpanel.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=panbehpanel.ir#shankamil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990#AZARBAYJAB1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWMzZjkwM2U4MWQ1ZDRl@57.128.190.194:10013#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20744565
