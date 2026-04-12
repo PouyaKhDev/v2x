@@ -1,3 +1,4 @@
+vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?path=%2FX0PX5Vup1qlVVzhxp6ic50a&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mtn.vpsmee.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.vpsmee.ir#%3E%3E%40configV2rayNG%3A%3ADE
 vless://c08734a9-5652-4b12-897a-25245b9c538e@lp2.hmvpa.ir:3445?security=none&encryption=none&headerType=none&type=tcp#@OnNetX
 vless://c4bfda4b-0652-45a2-86ee-d627e5a2d4a5@nl.slashssh.tech:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=chrome&pbk=qsL2batSoDcFzdkuqZR-jvB_r0F8Ny95RNVPTBrS1GU&sid=fedcba9876543210&type=tcp&headerType=none&path=/#⚡Telegram
 vless://rootface-TELEGRAM@[0000:0000:0000:0000:0000:ffff:2fee:e222]:2089?security=none&seed=@rootface
@@ -34,7 +35,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDQ3MDM2YzQ1NTk2NjA1@57.129.94.79:11208#tel
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.122:8008#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://919c1334-5a4a-4eb4-930a-7576b307aa48@185.76.243.226:443#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20840124
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@192.144.19.55:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#📍Telegram
-vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?encryption=none&security=none&type=ws&host=tamamde1.global.ssl.fastly.net&path=%2F%3Fed%3D2052#telegram%20%E2%9A%A1%EF%B8%8F%20dailyv2ry
 vless://97138d81-028f-4014-ae1a-036f7bd4c3b7@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=www.zhaket.com&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4#🇩🇪
 vmess://eyJ2IjogIjIiLCAiYWRkIjogImNoYXRncHQuY29tIiwgInBvcnQiOiAyMDgzLCAiaWQiOiAiZTYzOTVjMjAtNDU3MS00YjM0LWQ2YjEtNTVhNWQzNmU0OWVhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIi0tLSIsICJob3N0IjogImhndHJvamFuLnphYmMubmV0IiwgInBhdGgiOiAiL2U2Mzk1YzIwIiwgInRscyI6ICJ0bHMiLCAic25pIjogImhndHJvamFuLnphYmMubmV0IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIlZNLTExMDYtMDEiLCAicHMiOiAiQHYycmF5c19oYSA2NTkzIn0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.119.77:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.119.77-0367
@@ -295,4 +295,3 @@ vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.14.19:2095?path=%2F&security
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.143:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20662270
 vless://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=2cfb5a0ae8ab0cb0#channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#%3E%3E%40OutlineVpnOfficial%3A%3AKZ
-vless://TELEGRAM-CONFiGLiNE-131@speedtest.net:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=1024&security=none&encryption=none&host=barayekhoda.global.ssl.fastly.net&type=ws#🇺🇸AZARBAYJAB1
