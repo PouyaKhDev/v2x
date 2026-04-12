@@ -1,8 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.228:443?security=tls&sni=kkh.ylks.link&type=ws&path=/#@Hope_Net-join-us-on-Telegram
-vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@45.83.140.34:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&sid=fb1a8818b2ec7f2e&type=tcp&headerType=none#%20
-vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@nl02-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com&type=tcp#
-vless://5073081a-a4a6-46e6-a3f5-ff6bb0bbdfab@ip.notomarosww.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=4f009rpo6n.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=4f009rpo6n.zjde5.de5.net#@OnNetX
-vless://0df23c07-b289-4d65-822a-228478ca73bd@77.246.99.24:55537?flow=xtls-rprx-vision&security=reality&encryption=none&sni=eh.vk.com&fp=chrome&pbk=PClmXGgES7jXMr2jXfP644yISutD0uxVeUNNqYBTTmU&type=tcp&headerType=none&path=/#⚡Telegram
 vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@18.153.158.159:1032?path=/iran&security=none&encryption=none&host=g3.netsep2.de&type=ws#IR-@V2rayAlpha-14
 vless://ea587015-7e48-4f1e-898b-b83c5b2bdf21@download.wortexnetwork.com:443?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&sni=tgju.org#IR-@V2rayAlpha-18
 vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@95.163.208.119:5443?type=tcp&security=reality&headerType=none&fp=chrome&sni=yandex.ru&flow=xtls-rprx-vision&pbk=L4Pdk1P9RGI2B8XT9MCASzlD0Ra09bPOGBl_GduLjx0&sid=ce11cd7625d4f72e#@V2ray_confing33
@@ -308,3 +303,6 @@ vless://f3f6f19f-c68a-462c-a534-9b388663fffa@31.13.208.3:443?encryption=none&flo
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@ger2.panbehpanel.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=panbehpanel.ir#shankamil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990#AZARBAYJAB1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWMzZjkwM2U4MWQ1ZDRl@57.128.190.194:10013#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20744565
+trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#%3E%3E%40OutlineVpnOfficial%3A%3AAU
+vmess://eyJhZGQiOiAiZm9yY2UxMi5nb2xkc3BlZWQub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiZjk1MTcwOC05Zjc1LTQ3YTctODY0OS0zYWIwYTdkMmNjMTUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0MDg3MiIsICJwcyI6ICJbOTI2NzBdIC0gVGVsZWdyYW0gOiBAVjJBbGwiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
