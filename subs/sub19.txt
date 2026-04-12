@@ -1,4 +1,3 @@
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?type=ws&encryption=none&host=ca.adobe-connect.top&path=/&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20745525
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.156:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20290067
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20979352
 vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@nl1.rsvps.tech:443?security=reality&encryption=none&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#TE
@@ -51,6 +50,7 @@ vless://-----DIGIV2RAY----@185.146.173.68:2095?path=/DigiconnecT?ed=1024&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://fa7ea4ac-1ed6-467a-ae18-2099ed2bb4ae@146.190.85.213:45989/?type=tcp&encryption=none&flow=&sni=apple.com&fp=chrome&security=reality&pbk=YmPBYhQjKnaKKGDHQb6xxjvPw3nenm59T1ssG0KFcj0&sid=1f13df2cb7&packetEncoding=xudp#%7C%20%40v2rayeagle%20%7C%20%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS40NS4zNCIsICJwb3J0IjogIjIwOTUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAib25lYS5mbGhhLnJ1IiwgInRscyI6ICIifQ==
+trojan://humanity@104.18.10.110:443/?type=ws&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20218712
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?encryption=none&security=tls&sni=ziyong.boringdad.netlib.re&allowInsecure=1&type=ws&path=/#t.me/v2Line
 vless://c6350093-32a4-46d4-a64e-b581c21b1128@chatgpt.com:2053?path=/us?ed=2560&security=tls&encryption=mlkem768x25519plus.native.0rtt._aH6LBZ2r6J8sX2BzZPysVmlbs_XeNChfUeshbt4qnM&insecure=1&host=stiky.clinicst.ir&fp=chrome&type=ws&allowInsecure=1&sni=stiky.clinicst.ir#telegram
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.127:8880?encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20205639
@@ -101,6 +101,7 @@ vless://4ec128ac-997c-49b6-a3a4-4fc61141df62@ip.hamrahto.com:8443?encryption=non
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.84:8008#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://Parsashonam-328@46.224.126.160:443?type=xhttp&encryption=none&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&host=&mode=auto&security=reality&pbk=e9wxtm7Ei-jZn9k-OhlNhLI6CJwGQF9i_WpKrm81RVE&fp=firefox&sni=tgju.org&sid=86c3ab8ae267e5&spx=/#
 vless://fb809fe7-3a32-4f67-bb23-3c1dd51209a7@167.172.60.254:443?security=reality&encryption=none&pbk=ZKO0LqSD5bDeNBmHyucJAdL-KoY2HdOp7Xs93PRDZHg&headerType=&fp=firefox&type=tcp&sni=tgju.org&sid=9fa0bc5b0df3#[
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#QT%206%20%40Outline_Vpn
 vless://71b454bd-3462-4a70-83fe-1a4066f1d951@sky.online.class.mate.rooming.gamesiland.org:14469?type=ws&encryption=none&path=/&host=&security=none#کانفیگ
 vless://79df85dd-cb40-4b32-828e-f38d918d85e3@fast2.zone-server-irani.ir:80?mode=auto&path=/magicmizban?ed=2048&security=none&encryption=none&extra={
 vless://a6a68ac8-6fb1-48e6-837f-84655f2e48a4@188.114.98.0:2095?path=/V2RayyNGvpn?ed=512&security=none&encryption=none&host=miracle.esportplusnews.top&type=httpupgrade#Telegram:@config_proxy
@@ -307,4 +308,3 @@ vless://826943c2-54fe-4fcf-ba7a-9497d7b88979@s8.ramimax.com:26501?security=none&
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.70:9011#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20257259
 vless://68a9cce7-2923-4ff4-832f-3c3d8800009e@146.75.77.194:443?encryption=none&security=tls&sni=dojman.global.ssl.fastly.net&alpn=http/1.1&type=ws&host=dojman.global.ssl.fastly.net&path=/containers/fi#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20588229
 vmess://eyJhZGQiOiI1LjgzLjE1MC4xMDgiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZmE4Zjg5MTEtMmU5Yi00OTRlLTlhOGQtZjgwMjM5ZWUyMjE0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI4NTc0LCJwcyI6IuKdjETDvHNzZWxkb3JmLUdldEFGcmVlTm9kZS5jb20iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
-vless://e2a4327f-a741-43db-b346-28e46d3da9bb@osmo.usertak.com:2053?type=tcp&path=/&host=fast.com&headerType=http&security=none#VayNora
