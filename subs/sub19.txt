@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.39:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20656518
+vless://56d1d355-92c9-4a9c-91e4-327d29d9a82f@95.85.232.41:443?security=reality&encryption=none&pbk=RTiq5daK_aG5LQSByzhQevcZVfT18MvPpO1-5w3lkVw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ge.rakslinevpn.su&sid=185b5686fe5b13ce#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20870543
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.101:5601#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.33:2375#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@217.30.10.18:9056#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20228893
@@ -293,6 +295,3 @@ vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.75.31:8090?type=tcp&encrypti
 vless://e0fc601e-e0c6-4c8c-92d6-6f5d1cde5a09@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
 vless://e6859af3-9286-4799-9b51-972029081581@81.12.34.197:2020?security=none&encryption=none&headerType=none&type=tcp#🔴
 vless://1cd99383-a977-4959-acb7-4be6d4ceeda3@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
-vmess://eyJhZGQiOiI5NS44MS4xMjMuMTUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZTFjYzI2YjMtZGYwYi00NzdiLWFmYjAtNTM2NTlhMjVlOTc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQwOTU2LCJwcyI6Ik1vc2Nvdy1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
-vless://dca08a58-06c2-441e-b8ea-72eb898d1874@st2.pmme5.top:20443?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#channel
-vless://5eb32d76-7b18-4e01-fa09-99fc5424712a@103.215.221.219:20425?security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
