@@ -131,7 +131,6 @@ trojan://telegram-id-privatevpns@3.67.73.0:22222?security=tls&alpn=http/1.1&head
 vless://b869f898-f314-41ca-ae62-ff607c1c171e@151.101.169.242:80?path=/&encryption=none&host=blazeus150your-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20554646
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20251501
 vless://dff1ebfc-469f-5ccf-ac01-4e0031bf7d12@78.157.58.195:53196?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20970049
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MjNjZGI5NGE0NTdmYWVl@141.95.109.160:11201#BESTIIVPNBOT
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:27186#🇭🇰
 vless://573c787d-d549-4171-b05f-29984bc0266c@104.18.32.47:443?type=ws&encryption=none&path=/@AmirGeekTech-@FNET00&host=ipv4.farazteams.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43662#BESTIIVPNBOT
