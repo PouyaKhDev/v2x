@@ -1,3 +1,6 @@
+vless://e076e2c6-bb55-4830-a514-d89f60f550d8@voip.khakshouri.ir:56734?security=reality&encryption=none&pbk=RO_4G0ajxySXJ2CcWXVZ6vFhYWw7Jt3uF829syN6_X4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.pinterest.com&sid=2e#VayNora
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.32.47:443?allowInsecure=0&alpn=h2,h3,http/1.1&encryption=none&fp=chrome&host=rondroham.ir&path=/?ed=2560&security=tls&sni=rondroham.ir&type=ws#⚡Telegram
+vless://21fbdd38-d039-498e-9abc-4040cc545526@SpEeDtEsT.NeT:80?mode=auto&path=/HajAmirVip?=2048&security=&encryption=none&host=fasthetz.global.ssl.fastly.net&type=xhttp#⚡Telegram
 vless://32ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=/&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp&note=@freeOnlineVPN#🇩🇪
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇭🇰
 vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@104.17.148.22:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20113899
@@ -298,5 +301,3 @@ vless://ce9ec388-9a94-4090-8372-24d154ddc77e@n7.bernoclub.top:32952?security=tls
 vless://43a0c5ea-e214-42f3-98:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20948118
 vless://aa419e58-cfea-4896-a51b-535263708181@sv1.abarhostco4.top:7930?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#@V2ray_confing33
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20ShatakVPN%20967419
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.50.149.114:16449#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1
