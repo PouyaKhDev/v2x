@@ -292,4 +292,3 @@ vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?encryption=none&f
 vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=/hsdgsws&security=tls&alpn=http/1.1&encryption=none&host=sunseet.info&fp=chrome&type=ws&sni=sunseet.info#DS
 vless://c86fa766-355a-4748-9725-380d39e176c1@31.14.115.53:443?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#@V2ray1_Ng
 vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&type=tcp&sni=fr1.itscdn.ir#VayNora
-vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@188.114.98.0:8443?path=/@OnNetVpn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#@mehrosaboran
