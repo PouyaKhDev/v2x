@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.187:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20654441
 vless://23c4fadc-224c-45cd-aa04-7e03c3666954@94.101.191.188:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20203880
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.154:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20889312
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#🇸🇪
