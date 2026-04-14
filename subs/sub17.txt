@@ -1,5 +1,3 @@
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.89.164.60:443?encryption=none&security=reality&sni=cdn.userway.org&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&headerType=none#telegram%20%F0%9F%8D%8A%20dailyv2ry
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?amp%3Bfp=chrome&amp%3Btype=grpc&amp%3Bencryption=none#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
 vless://c7728635-49f7-4e4b-9062-1af9d7796b42@94.182.135.161:42461?encryption=none&type=tcp&security=none#Telegram%20%7C%20@GenZVPNBot
 ss://YWVzLTI1Ni1jZmI6YmJPOEthemtOQlVHYjdIUA==@221.181.185.71:20934#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://5eb9b54d-3c4e-4588-97f7-e53fe3e92c90@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=GLOrioUs-aRriVALHCRtzt96gb.sPORtlANd.cOMPAnY.&type=ws#%3E%3E%40v2rayng_fast%3A%3APL
@@ -122,6 +120,7 @@ vless://59ec2f1f-e7b1-41c1-b80f-36d1ec76425c@iamac.iransalar.top:18164?encryptio
 vless://ad769f8d-9e20-45b7-9a8a-de11641b6590@68.183.205.118:443?path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20615248
 vless://b89696d2-68ec-4812-bd95-a8f017ad8b4b@NEW.CDN.TORPROSPEED.IR:2087?path=/&security=tls&encryption=none&insecure=0&host=kxfuftoukfxfuk.xuiprospeed.ir&fp=chrome&type=ws&allowInsecure=0&sni=kxfuftoukfxfuk.xuiprospeed.ir#@CooOw
 vless://8a4befcf-f30e-4114-a227-b82fe5034bff@www.speedtest.net:8080?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=19.v.V.v-_-_-V2rAy-_-_-v.v.v.v.speedtest.net.www.zula.ir.check-host.net.Vipnufilter.Online.&type=ws#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@104.21.13.183:443#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20718572
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46575#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20171655
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.176:38388#🇻🇳VN
 vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.14.19:80?path=/?ed=2560&security=none&encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&fp=randomized&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20277686
@@ -300,3 +299,5 @@ vless://36f865d3-979b-4c7e-a117-2ec48092a69d@de.boxypn.com:443?encryption=none&f
 vless://ba485930-ba61-4873-b510-2391797646a7@81.12.57.13:443?encryption=none&type=ws&host=@AKLISvpn@AklisVpn@AKLISvpn@AKLISvpn@AklisVpn@AklisVpn@AKLISvpn@AKLISvpn@AklisVpn@AklisVpn@AKLISvpn@AKLISvpn@AklisVpn@AklisVpn@AKLISvpn@AKLISvpn@AklisVpn&path=/#AklisVpn🇪🇺♻️🌼
 vless://2bd6f1bd-378e-40ad-8981-229800f1340e@173.245.59.217:443?path=/ljrnxaws&security=tls&encryption=none&type=ws&sni=638990351320529492.prius-amshz.info#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20208894
 vless://200bf63f-7273-4a49-97ee-222cf2832cbb@87.107.9.106:6074?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20622444
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20446347
+vless://@datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#⚡️Telegram
