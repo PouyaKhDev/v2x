@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1
+vless://07ee34e6-d847-458e-9cc1-b7a64f4c7600@jak.usertak.com:2053?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#VayNora
 vless://1584bd08-6e01-462f-b2b4-34cc7e3916c2@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=cdcd.digishopcenter.ir&type=grpc&serviceName=Love&sni=cdcd.digishopcenter.ir#
 vless://4e93d99e-7540-4f4d-884f-63a3c4a845dd@94.131.101.131:8443?security=reality&type=tcp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=fb1a8818b2ec7f2e&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&encryption=none#Telegram:@config_proxy
 vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#%3E%3E%40FreakConfig%3A%3AUS
@@ -299,4 +301,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 vless://5621e674-5d26-4389-bf28-bf7cc29cfad6@87.236.38.209:640?security=none&encryption=none&headerType=none&type=tcp#‌Telegram-𝗝𝗼𝗶𝗻
 ss://YWVzLTI1Ni1nY206ODU2MzQxMWYtZjA0Yy00YTM4LTg3NTMtMTFjMzRlNTk5MzY1@45.89.53.115:8443?note=@freeOnlineVPN#🇺🇸
 vless://3f8cac1e-b25a-4254-866d-3c2f8ca3b2dd@212.95.34.97:21551?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20516016
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.196.20:2053?path=/TELEGRAM-MARAMBASHI-MARAMBASHI/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&fp=randomized&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#@Hope_Net-join-us-on-Telegram
