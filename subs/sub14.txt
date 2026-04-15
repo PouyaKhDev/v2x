@@ -1,7 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20853026
-vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@193.187.132.145:587?security=reality&encryption=none&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=916e8258c4a01b02#channel
-vless://7e733218-d0ff-4466-8159-fac7ef8aba30@178.239.145.234:2083?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20297189
-trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20876266
 trojan://telegram-id-privatevpns@3.74.60.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://c1d83c0c7d57cead4379ba14a82df69b@157.120.36.210:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@139.64.165.155:5003#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -291,3 +287,6 @@ vless://b89696d2-68ec-4812-bd95-a8f017ad8b4b@REAL.CDN.TORPROSPEED.IR:2087?path=/
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&security=reality&serviceName=JNIR&sid=1d64e9805b4f9ae3&sni=nobitex.ir&type=grpc#%F0%9F%A5%9090@oneclickvpnkeys
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@am-ircdn.panbehpanel.ir:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=panbehpanel.ir#Wx%206%20%40Outline_Vpn
 vmess://eyJhZGQiOiI4LjYuMTEyLjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhndHJvamFuLnphYmMubmV0IiwiaWQiOiJlNjM5NWMyMC00NTcxLTRiMzQtZDZiMS01NWE1ZDM2ZTQ5ZWEiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZTYzOTVjMjAiLCJwb3J0IjoiMjA4MyIsInBzIjoiQHYycmF5bmd6ZW5kZWdpbWFtYWTwn5WK77iPIiwic2N5IjoiYXV0byIsInNuaSI6ImhndHJvamFuLnphYmMubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=live.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
+vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=/hsdgsws&security=tls&alpn=http/1.1&encryption=none&host=sunseet.info&fp=chrome&type=ws&sni=sunseet.info#DS
+vless://c86fa766-355a-4748-9725-380d39e176c1@31.14.115.53:443?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#@V2ray1_Ng
