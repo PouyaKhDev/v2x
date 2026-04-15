@@ -1,6 +1,3 @@
-vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=/hsdgsws&security=tls&alpn=http/1.1&encryption=none&host=sunseet.info&fp=chrome&type=ws&sni=sunseet.info#DS
-vless://c86fa766-355a-4748-9725-380d39e176c1@31.14.115.53:443?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#@V2ray1_Ng
-vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&type=tcp&sni=fr1.itscdn.ir#VayNora
 vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@188.114.98.0:8443?path=/@OnNetVpn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#@mehrosaboran
 vless://604a99b3-9a01-494b-a600-365325c4afde@85.9.122.100:16170?security=none&encryption=none&headerType=none&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 vmess://eyJ2IjogIjIiLCAicHMiOiAiWzkzMDM3XSAtIFRlbGVncmFtIDogQFYyQWxsIiwgImFkZCI6ICIxNS4yMDQuNjQuMjExIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJrYW1wb25nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
@@ -291,3 +288,5 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.180:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#channel
 vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@de2.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#%40EuServer
 vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.105.235:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#FQ%206%20Tel%3A%40Outline_Vpn
+vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.28.244:80?security=none&type=ws&host=us1.socifiles.com&path=%2Fvlws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20503785
