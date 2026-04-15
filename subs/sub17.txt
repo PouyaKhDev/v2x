@@ -1,3 +1,13 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BC%20ShatakVPN%20316687
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.143:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20662270
+vless://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=2cfb5a0ae8ab0cb0#channel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#%3E%3E%40OutlineVpnOfficial%3A%3AKZ
+vless://TELEGRAM-CONFiGLiNE-131@speedtest.net:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=1024&security=none&encryption=none&host=barayekhoda.global.ssl.fastly.net&type=ws#🇺🇸AZARBAYJAB1
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=/?ed=2560&Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.rocks&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.rocks#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20788604
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.42:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20523324
+vless://3e2a40df-fc16-4ffb-9b7b-d5843aa608e3@188.114.96.221:80?path=/Proxy-MTM?ed=2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#@Hope_Net-join-us-on-Telegram
+vless://f52124d2-47d2-473b-b9ba-50772a829370@94.131.110.122:443?path=/rlsusiws&security=tls&encryption=none&type=ws&sni=www.vk.com#
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@143.20.213.40:8443?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳+@WangCai2&host=sni.111000.de5.net&sni=sni.111000.de5.net&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20268341
 vless://6beffba5-a483-4226-a76c-a8d25771d1fe@190.93.244.3:2053/?type=ws&encryption=none&flow=&host=netdade.ecoglass.ir&security=tls&sni=netdade.ecoglass.ir#%7C%20%40v2rayeagle%20%7C%20%F0%9F%A6%85%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#%F0%9F%87%A7%F0%9F%87%B7%20ShatakVPN%20361172
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?allowInsecure=1&path=%2Ff2fc2a1f&type=ws#%F0%9F%A5%9052@oneclickvpnkeys
@@ -289,12 +299,3 @@ vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@63.141.128.158:443?path=/?ed=2560&s
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5003#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vmess://eyJhZGQiOiJ0dW4ubXlleHRyYW9yZGluYXJ5LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ5YXNkbC5jb20iLCJpZCI6IjUzYmU4NzQ2LThhY2QtNDFkNy04NGExLTdmNjU4MWYwM2ZkMSIsImluc2VjdXJlIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIzOTExIiwicHMiOiLwn4eu8J+HtyB8IEBEYWlseVYyUHJveHkg8J+RiCDaqdin2YbYp9mEINiq2YTar9ix2KfZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.209.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@36.231.106.79:2222?allowInsecure=0#@Hope_Net-join-us-on-Telegram
-vless://613725ab-ca86-4d54-852e-a0bf45e812de@83.147.18.219:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=allison.kosmolet.xyz&fp=chrome&security=reality&pbk=UgCLC1JdwUh-hgpvSfndN1tuH98620gziTq2UB0gOjI&sid=a369bfe440aba1a2#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20939487
-vless://5d923b9b-58ad-44b3-a6d6-e597248cae7c@108.162.193.91:443?path=/sfoumxws&security=tls&encryption=none&insecure=1&host=639025539645154202.accord-amsjl.info&type=ws&allowInsecure=1&sni=639025539645154202.accord-amsjl.info#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20604892
-vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@45.83.140.9:8443?security=reality&encryption=none&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=cefa7ca418bd0dcb#⚡︎
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.131-0293
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.134:38388#t.me/entryNET/config=1856144995913585
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.74:38388#%F0%9F%87%BB%F0%9F%87%B3%20ShatakVPN%20487679
-vless://266b09b3-aad1-445b-8150-904714ad0cdf@104.21.55.47:2053?security=tls&encryption=none&insecure=0&host=image-photo-ger.bestasli.ir&type=ws&allowInsecure=0&sni=image-photo-ger.bestasli.ir#%40V2RAY_VMESS_free%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw==@87.121.162.249:443#%F0%9F%87%A6%F0%9F%87%B1%20ShatakVPN%20118855
