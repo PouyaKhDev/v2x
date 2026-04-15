@@ -1,3 +1,6 @@
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.155:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://5151b892-de2f-4e8a-bf4d-e3fa8315b841@v-sub.easyrain.ir:2053?path=/?ed=8443&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=a8J99pWd.lInOlEuMgArDeN.com#Channel
+trojan://telegram-id-privatevpns@15.236.235.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.102:38388#🇻🇳VN
 vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&encryption=none&host=tamin.ir&headerType=http&type=tcp#GD%202%20%40Outline_Vpn
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&encryption=none&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&sni=mitivpn-s1.global.ssl.fastly.net#Our%20Channel%20%E2%87%A8%20@V2rayng_Fast
@@ -290,7 +293,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha
 vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.94.99:443?security=reality&encryption=none&pbk=-1F5A8N32UdC6w2NqnAc5-GkQW1dgcrImiQPl4WRikk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=ef0b40e707663781#🇨🇭@YamYamProxy
 vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=sens.certhost.ir&type=ws&allowInsecure=0&sni=sens.certhost.ir#@OnNetX
 vless://5eb9b54d-3c4e-4588-97f7-e53fe3e92c90@172.64.152.23:80?type=ws&security=none&host=GLOrioUs-aRriVALHCRtzt96gb.sPORtlANd.cOMPAnY.&path=/?ed&note=@freeOnlineVPN#🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43663#%F0%9F%87%B0%F0%9F%87%BF%20ShatakVPN%20500333
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.27.214:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram
-vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@104.18.26.90:2095?path=/?ed=2095&security=&encryption=none&host=us.badomzamini.uk&type=httpupgrade#ConfigV2RayNG
-vless://3f426ef7-a809-4d46-921c-cc80b6cee4e0@176.122.27.150:446?type=grpc&encryption=none&serviceName=ads.x5.ru&sni=ads.x5.ru&security=reality&pbk=gI6Iw_EpgPX19ewUx8hdFMju1rFeLWaiu5cdkTOdYlw&sid=0c527349abcdef#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20322282
